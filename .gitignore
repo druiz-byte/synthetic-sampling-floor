@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+generation/resultados/
+generation/encuestas/
+.DS_Store
+Thumbs.db
