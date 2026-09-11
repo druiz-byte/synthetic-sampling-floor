@@ -1,0 +1,2688 @@
+{
+ "id": {
+  "label": "Identificador único",
+  "values": {}
+ },
+ "sexo": {
+  "label": "Sexo del entrevistado",
+  "values": {
+   "1": "Hombre",
+   "2": "Mujer"
+  }
+ },
+ "edad": {
+  "label": "Edad numérica",
+  "values": {
+   "1": ""
+  }
+ },
+ "edad_r": {
+  "label": "Edad agrupada",
+  "values": {
+   "1": "18-24",
+   "2": "25-34",
+   "3": "35-44",
+   "4": "45-54",
+   "5": "55-64",
+   "6": "65+",
+   "7": "Menor de 18"
+  }
+ },
+ "hab": {
+  "label": "Tamaño de hábitat",
+  "values": {
+   "1": "< 10.000",
+   "2": "10.001 - 20.000",
+   "3": "20.001 - 50.000",
+   "4": "50.001 - 100.000",
+   "5": "100.001 - 500.000",
+   "6": "500.000+"
+  }
+ },
+ "prov": {
+  "label": "Provincia",
+  "values": {
+   "1": "Álava",
+   "2": "Bizkaia",
+   "3": "Gipuzkoa"
+  }
+ },
+ "ccaa": {
+  "label": "Comunidad autónoma de residencia",
+  "values": {
+   "1": "Andalucía",
+   "2": "Aragón",
+   "3": "Asturias, Principado de",
+   "4": "Balears, Illes",
+   "5": "Canarias",
+   "6": "Cantabria",
+   "7": "Castilla y León",
+   "8": "Castilla - La Mancha",
+   "9": "Cataluña",
+   "10": "Comunitat Valenciana",
+   "11": "Extremadura",
+   "12": "Galicia",
+   "13": "Madrid, Comunidad de",
+   "14": "Murcia, Región de",
+   "15": "Navarra, Comunidad Foral de",
+   "16": "País Vasco",
+   "17": "Rioja, La",
+   "18": "Ceuta",
+   "19": "Melilla"
+  }
+ },
+ "edu": {
+  "label": "Nivel educativo del encuestado",
+  "values": {
+   "1": "Sin estudios o con estudios primarios sin terminar",
+   "2": "Primer Grado (Certificado escolar, 1ª etapa de EGB, más o menos hasta los 10 años)",
+   "3": "Segundo Grado - 1º Ciclo (Graduado escolar, o EGB 2ª etapa, o 1º y 2º de ESO, hasta los 14 años)",
+   "4": "Segundo Grado  2ª Ciclo FP Iº y IIº Bachiller superior BUP 3º y 4º de ESO COU PREU 1º y 2º Bachillerato hasta los",
+   "5": "Tercer Grado  1º Ciclo Equivalente a Ingeniero técnico 3 años Escuelas universitarias Ingenieros técnicos Arquitecto",
+   "6": "Licenciatura, Grado - 2º Ciclo (Universitarios, Licenciados superiores, Facultades, Escuelas técnicas superiores, etc.",
+   "7": "Tercer Grado (Máster)",
+   "8": "Tercer grado (Doctorado)",
+   "9": "Otros"
+  }
+ },
+ "cs8": {
+  "label": "¿En cuál de las siguientes situaciones te encuentras tú actualmente?",
+  "values": {
+   "1": "Trabajo actualmente",
+   "2": "Retirado/pensionista/incapacitado",
+   "3": "Parado, he trabajado anteriormente",
+   "4": "Parado, busco primer empleo",
+   "5": "Estudiante",
+   "6": "Trabajo del hogar no remunerado (sin ninguna ocupación previa)"
+  }
+ },
+ "cs": {
+  "label": "Clase social",
+  "values": {
+   "1": "A1",
+   "2": "A2",
+   "3": "B",
+   "4": "C",
+   "5": "D",
+   "6": "E1",
+   "7": "E2"
+  }
+ },
+ "lengua": {
+  "label": "Indica si prefieres contestar en castellano o en euskera",
+  "values": {
+   "1": "Castellano",
+   "2": "Euskera"
+  }
+ },
+ "p1_1": {
+  "label": "La situación económica - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La situación económica"
+  }
+ },
+ "p1_2": {
+  "label": "La convivencia política - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La convivencia política"
+  }
+ },
+ "p1_3": {
+  "label": "El paro - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "El paro"
+  }
+ },
+ "p1_4": {
+  "label": "Las condiciones laborales - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "Las condiciones laborales"
+  }
+ },
+ "p1_5": {
+  "label": "La educación - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La educación"
+  }
+ },
+ "p1_6": {
+  "label": "La sanidad (La atención sanitaria) - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La sanidad (La atención sanitaria)"
+  }
+ },
+ "p1_7": {
+  "label": "La crisis de valores (egoísmo, intolerancia…) - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La crisis de valores (egoísmo, intolerancia…)"
+  }
+ },
+ "p1_8": {
+  "label": "La delincuencia e inseguridad ciudadana - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La delincuencia e inseguridad ciudadana"
+  }
+ },
+ "p1_9": {
+  "label": "Los problemas relacionados con la juventud - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "Los problemas relacionados con la juventud"
+  }
+ },
+ "p1_10": {
+  "label": "La inmigración - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La inmigración"
+  }
+ },
+ "p1_11": {
+  "label": "La corrupción y el fraude - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La corrupción y el fraude"
+  }
+ },
+ "p1_12": {
+  "label": "La clase política, los políticos - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La clase política, los políticos"
+  }
+ },
+ "p1_13": {
+  "label": "Las desigualdades sociales - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "Las desigualdades sociales"
+  }
+ },
+ "p1_14": {
+  "label": "La desigualdad entre mujeres y hombres - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La desigualdad entre mujeres y hombres"
+  }
+ },
+ "p1_15": {
+  "label": "El cambio climático y el medioambiente - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "El cambio climático y el medioambiente"
+  }
+ },
+ "p1_16": {
+  "label": "Los recortes en los servicios públicos - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "Los recortes en los servicios públicos"
+  }
+ },
+ "p1_17": {
+  "label": "La vivienda - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La vivienda"
+  }
+ },
+ "p1_18": {
+  "label": "La relación con el Estado español - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La relación con el Estado español"
+  }
+ },
+ "p1_19": {
+  "label": "Los problemas relacionados con el euskera - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "Los problemas relacionados con el euskera"
+  }
+ },
+ "p1_20": {
+  "label": "Las pensiones - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "Las pensiones"
+  }
+ },
+ "p1_21": {
+  "label": "La subida de precios (la inflación, el coste de la vida cotidiana, el precio de la luz...) - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta ",
+  "values": {
+   "1": "La subida de precios (la inflación, el coste de la vida cotidiana, el precio de la luz...)"
+  }
+ },
+ "p1_22": {
+  "label": "La baja natalidad - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "La baja natalidad"
+  }
+ },
+ "p1_23": {
+  "label": "Las guerras - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "Las guerras"
+  }
+ },
+ "p1_24": {
+  "label": "No lo sé / prefiero no contestar - En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)?  Señala hasta un máximo de tres.",
+  "values": {
+   "1": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p2": {
+  "label": "¿Cómo calificarías la situación económica del País Vasco?  ",
+  "values": {
+   "1": "Muy buena",
+   "2": "Buena",
+   "3": "Regular",
+   "4": "Mala",
+   "5": "Muy mala",
+   "6": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p3": {
+  "label": "Y dentro de un año, ¿cómo crees que será la situación económica del País Vasco?   ",
+  "values": {
+   "1": "Mejor",
+   "2": "Igual",
+   "3": "Peor",
+   "4": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p4": {
+  "label": "¿En cuál de las siguientes situaciones te encuentras actualmente?  ",
+  "values": {
+   "1": "Trabajo de forma remunerada desde casa (teletrabajo)",
+   "2": "Trabajo de forma remunerada fuera de mi casa",
+   "3": "Trabajo de forma remunerada combinando mi puesto presencial con el teletrabajo",
+   "4": "Jubilado/a o pensionista (he trabajado en el pasado)",
+   "5": "Pensionista (no he trabajado en el pasado)",
+   "6": "Parado/a y he trabajado antes",
+   "7": "Parado/a y busco mi primer empleo",
+   "8": "Estudiante buscando trabajo",
+   "9": "Estudiante sin buscar trabajo",
+   "10": "Estudio y trabajo",
+   "11": "Trabajo doméstico no remunerado",
+   "12": "Otra situación"
+  }
+ },
+ "p5": {
+  "label": "¿Crees que es probable que en los próximos seis meses pierdas tu actual empleo?  ",
+  "values": {
+   "1": "Muy probable",
+   "2": "Bastante probable",
+   "3": "Poco probable",
+   "4": "Nada probable",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p6_1": {
+  "label": " Reducir los gastos en alimentación - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_2": {
+  "label": " Reducir los gastos en ocio - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_3": {
+  "label": " No comprar alguna medicina o dejar de seguir un tratamiento médico - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_4": {
+  "label": " Pedir ayuda económica a amigos/as, vecinos/as o familiares - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_5": {
+  "label": " Retrasar algún pago (como el alquiler, la hipoteca, los recibos de la luz, agua, electricidad, etc.) - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_6": {
+  "label": " No comprar ropa o calzado que realmente necesito - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_7": {
+  "label": " Reducir el consumo de carne o pescado - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_8": {
+  "label": " Pedir ropa - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_9": {
+  "label": " Pedir alimentos - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_10": {
+  "label": " Dejar de ir al dentista - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_11": {
+  "label": " Renunciar a independizarme, teniendo que permanecer en la casa de mis familiares - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_12": {
+  "label": " Volver a vivir en la casa de mis familiares - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p6_13": {
+  "label": " Renunciar a irme de vacaciones este verano - Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:",
+  "values": {
+   "1": "Lo he hecho",
+   "2": "Lo he pensado hacer, pero no lo he hecho",
+   "3": "Ni lo he hecho, ni lo he pensado hacer",
+   "4": "Prefiero no contestar"
+  }
+ },
+ "p7_1": {
+  "label": " Rabia/ Enfado - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p7_2": {
+  "label": " Tristeza - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p7_3": {
+  "label": " Miedo - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p7_4": {
+  "label": " Preocupación - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p7_5": {
+  "label": " Odio - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p7_6": {
+  "label": " Ansiedad - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p7_7": {
+  "label": " Soledad - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p7_8": {
+  "label": " Insomnio o mal sueño - ¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?",
+  "values": {
+   "1": "Muchas veces",
+   "2": "Bastantes veces",
+   "3": "Pocas veces",
+   "4": "Ninguna",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p8_1": {
+  "label": " La atención sanitaria (Osakidetza) - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_2": {
+  "label": " La educación en escuelas, colegios e institutos públicos - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_3": {
+  "label": " La educación en las universidades públicas - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_4": {
+  "label": " Las pensiones - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_5": {
+  "label": " La Administración de Justicia - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_6": {
+  "label": " La seguridad ciudadana - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_7": {
+  "label": "Los servicios sociales (ayuda a personas dependientes, a personas mayores…) - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_8": {
+  "label": " El transporte público - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_9": {
+  "label": " Las carreteras - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_10": {
+  "label": " Las políticas de vivienda - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_11": {
+  "label": " La política lingüística - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_12": {
+  "label": " La política turística - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_13": {
+  "label": " Las polÃ­ticas para reducir la desigualdad entre mujeres y hombres - Â¿QuÃ© valoraciÃ³n le das a cada uno de los siguientes servicios o polÃ­ticas? Utiliza una escala de 0 a 10, en la que 0 representa âMuy mala valoraciÃ³nâ y 10 âMuy buena valoraciÃ",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_14": {
+  "label": " Los programas de Investigación y Desarrollo (I+D) - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_15": {
+  "label": " La protección del medio ambiente - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p8_16": {
+  "label": " El servicio de empleo (Lanbide) - ¿Qué valoración le das a cada uno de los siguientes servicios o políticas? Utiliza una escala de 0 a 10, en la que 0 representa “Muy mala valoración” y 10 “Muy buena valoración”",
+  "values": {
+   "0": "0 -Muy mala valoración",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 - Muy buena valoración",
+   "99": "No lo sé/prefiero no contestar"
+  }
+ },
+ "p9_1": {
+  "label": " Asistencia sanitaria - ¿Crees que los inmigrantes que viven en el País Vasco deberían tener los mismos derechos y las mismas posibilidades que el resto de las personas?",
+  "values": {
+   "1": "Sólo los inmigrantes regularizados (con papeles)",
+   "2": "Todos los inmigrantes (regularizados o no)",
+   "3": "Ninguno"
+  }
+ },
+ "p9_2": {
+  "label": " Ayudas sociales - ¿Crees que los inmigrantes que viven en el País Vasco deberían tener los mismos derechos y las mismas posibilidades que el resto de las personas?",
+  "values": {
+   "1": "Sólo los inmigrantes regularizados (con papeles)",
+   "2": "Todos los inmigrantes (regularizados o no)",
+   "3": "Ninguno"
+  }
+ },
+ "p9_3": {
+  "label": " Vivienda de protección oficial - ¿Crees que los inmigrantes que viven en el País Vasco deberían tener los mismos derechos y las mismas posibilidades que el resto de las personas?",
+  "values": {
+   "1": "Sólo los inmigrantes regularizados (con papeles)",
+   "2": "Todos los inmigrantes (regularizados o no)",
+   "3": "Ninguno"
+  }
+ },
+ "p9_4": {
+  "label": " Derecho al voto - ¿Crees que los inmigrantes que viven en el País Vasco deberían tener los mismos derechos y las mismas posibilidades que el resto de las personas?",
+  "values": {
+   "1": "Sólo los inmigrantes regularizados (con papeles)",
+   "2": "Todos los inmigrantes (regularizados o no)",
+   "3": "Ninguno"
+  }
+ },
+ "p9_5": {
+  "label": " Traer a la familia más cercana - ¿Crees que los inmigrantes que viven en el País Vasco deberían tener los mismos derechos y las mismas posibilidades que el resto de las personas?",
+  "values": {
+   "1": "Sólo los inmigrantes regularizados (con papeles)",
+   "2": "Todos los inmigrantes (regularizados o no)",
+   "3": "Ninguno"
+  }
+ },
+ "p9_6": {
+  "label": " Acceso a la educación - ¿Crees que los inmigrantes que viven en el País Vasco deberían tener los mismos derechos y las mismas posibilidades que el resto de las personas?",
+  "values": {
+   "1": "Sólo los inmigrantes regularizados (con papeles)",
+   "2": "Todos los inmigrantes (regularizados o no)",
+   "3": "Ninguno"
+  }
+ },
+ "p9_7": {
+  "label": " Abrir centros de culto (religiosos) - ¿Crees que los inmigrantes que viven en el País Vasco deberían tener los mismos derechos y las mismas posibilidades que el resto de las personas?",
+  "values": {
+   "1": "Sólo los inmigrantes regularizados (con papeles)",
+   "2": "Todos los inmigrantes (regularizados o no)",
+   "3": "Ninguno"
+  }
+ },
+ "p10": {
+  "label": "¿Crees que dentro de 10 años será más fácil acceder a una vivienda?",
+  "values": {
+   "1": "Seguro que sí",
+   "2": "Probablemente sí",
+   "3": "Probablemente no",
+   "4": "Seguro que no",
+   "5": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p11_1": {
+  "label": " Conflictos internacionales / guerras - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Conflictos internacionales / guerras"
+  }
+ },
+ "p11_2": {
+  "label": " Terrorismo - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Terrorismo"
+  }
+ },
+ "p11_3": {
+  "label": " Subida brusca de los precios - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Subida brusca de los precios"
+  }
+ },
+ "p11_4": {
+  "label": " Desabastecimiento de algún producto básico - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Desabastecimiento de algún producto básico"
+  }
+ },
+ "p11_5": {
+  "label": " Crisis energética - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Crisis energética"
+  }
+ },
+ "p11_6": {
+  "label": " Inseguridad ciudadana - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Inseguridad ciudadana"
+  }
+ },
+ "p11_7": {
+  "label": " Migración - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Migración"
+  }
+ },
+ "p11_8": {
+  "label": " Cambio climático - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Cambio climático"
+  }
+ },
+ "p11_9": {
+  "label": " Pandemias / crisis sanitarias - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Pandemias / crisis sanitarias"
+  }
+ },
+ "p11_10": {
+  "label": " Desempleo - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Desempleo"
+  }
+ },
+ "p11_11": {
+  "label": " Precariedad laboral - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Precariedad laboral"
+  }
+ },
+ "p11_12": {
+  "label": " Desarrollos tecnológicos (Inteligencia artificial) - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Desarrollos tecnológicos (Inteligencia artificial)"
+  }
+ },
+ "p11_13": {
+  "label": " Ciberataques - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Ciberataques"
+  }
+ },
+ "p11_14": {
+  "label": " El avance de las ideas antidemocráticas - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "El avance de las ideas antidemocráticas"
+  }
+ },
+ "p11_15": {
+  "label": " Ninguno en particular - Pensando en los problemas globales actuales, indica los 3 que más miedo te dan.",
+  "values": {
+   "1": "Ninguno en particular"
+  }
+ },
+ "p12_1": {
+  "label": " El miedo a la delincuencia justifica un mayor control estatal sobre la población - En qué medida estás de acuerdo con cada una de las siguientes frases",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p12_2": {
+  "label": " Cedería parte de mis libertades a cambio de mayor garantía de mi seguridad - En qué medida estás de acuerdo con cada una de las siguientes frases",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p12_3": {
+  "label": "Es necesario priorizar a las personas autóctonas en la redistribución de recursos públicos (ayudas, vivienda, asistencia sanitaria, etc.) para que no colapsen los servicios públicos - En qué medida estás de acuerdo con cada una de las siguientes fras",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p13": {
+  "label": "¿En qué medida ha aumentado en los últimos años tu miedo a viajar?",
+  "values": {
+   "1": "Mucho",
+   "2": "Bastante",
+   "3": "Poco",
+   "4": "Nada",
+   "5": "Nunca he tenido miedo a viajar"
+  }
+ },
+ "p14": {
+  "label": "¿Has descartado o modificado un viaje en los últimos dos años?",
+  "values": {
+   "1": "Sí",
+   "2": "No"
+  }
+ },
+ "p15": {
+  "label": "¿Cuál fue la principal razón?",
+  "values": {
+   "1": "Inseguridad",
+   "2": "Precio elevado",
+   "3": "Crisis sanitaria",
+   "4": "Conflicto político",
+   "5": "Guerras",
+   "6": "Motivos laborales",
+   "7": "Otro"
+  }
+ },
+ "p16": {
+  "label": "¿En qué medida crees que el aumento de turistas afecta a la pérdida de la tradición e identidad de Euskadi?",
+  "values": {
+   "1": "Mucho",
+   "2": "Bastante",
+   "3": "Poco",
+   "4": "Nada",
+   "5": "No lo sé / Prefiero no contestar"
+  }
+ },
+ "p17_1": {
+  "label": "Se incrementa el precio del alquiler residencial al competir con el alquiler vacacional - ¿Crees que el turismo tiene alguno de los siguientes efectos en el acceso a la vivienda de la población local en tu municipio? Indica todas las opciones que conside",
+  "values": {
+   "1": "Se incrementa el precio del alquiler residencial al competir con el alquiler vacacional"
+  }
+ },
+ "p17_2": {
+  "label": " Disminuye la oferta de viviendas en venta - ¿Crees que el turismo tiene alguno de los siguientes efectos en el acceso a la vivienda de la población local en tu municipio? Indica todas las opciones que consideres.",
+  "values": {
+   "1": "Disminuye la oferta de viviendas en venta"
+  }
+ },
+ "p17_3": {
+  "label": " Aumenta la construcción de vivienda, tanto para residentes como para inversores - ¿Crees que el turismo tiene alguno de los siguientes efectos en el acceso a la vivienda de la población local en tu municipio? Indica todas las opciones que consideres.",
+  "values": {
+   "1": "Aumenta la construcción de vivienda, tanto para residentes como para inversores"
+  }
+ },
+ "p17_4": {
+  "label": " La calidad de vida de los barrios disminuye gravemente - ¿Crees que el turismo tiene alguno de los siguientes efectos en el acceso a la vivienda de la población local en tu municipio? Indica todas las opciones que consideres.",
+  "values": {
+   "1": "La calidad de vida de los barrios disminuye gravemente"
+  }
+ },
+ "p17_5": {
+  "label": " Mejora la calidad de vida al mejorar las infraestructuras y oferta de ocio - ¿Crees que el turismo tiene alguno de los siguientes efectos en el acceso a la vivienda de la población local en tu municipio? Indica todas las opciones que consideres.",
+  "values": {
+   "1": "Mejora la calidad de vida al mejorar las infraestructuras y oferta de ocio"
+  }
+ },
+ "p17_6": {
+  "label": " Ninguna de las anteriores - ¿Crees que el turismo tiene alguno de los siguientes efectos en el acceso a la vivienda de la población local en tu municipio? Indica todas las opciones que consideres.",
+  "values": {
+   "1": "Ninguna de las anteriores"
+  }
+ },
+ "p18": {
+  "label": "¿Cómo calificarías la situación política general del País Vasco?",
+  "values": {
+   "1": "Muy buena",
+   "2": "Buena",
+   "3": "Regular",
+   "4": "Mala",
+   "5": "Muy mala",
+   "6": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p19": {
+  "label": "¿Y cómo crees que será la situación política del País Vasco dentro de un año?  ",
+  "values": {
+   "1": "Mejor",
+   "2": "Igual",
+   "3": "Peor",
+   "4": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p20_1": {
+  "label": "España - Si tuvieras que valorar con una nota de 0 a 10 la calidad de la democracia en España, ¿qué nota le pondrías? ¿Y en el País Vasco? Utiliza una escala de 0 a 10, en la que 0 representa la peor valoración posible y 10 la mejor valoración pos",
+  "values": {
+   "0": "0 ",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 ",
+   "99": "No lo sé / Prefiero no contestar"
+  }
+ },
+ "p20_2": {
+  "label": "Euskadi - Si tuvieras que valorar con una nota de 0 a 10 la calidad de la democracia en España, ¿qué nota le pondrías? ¿Y en el País Vasco? Utiliza una escala de 0 a 10, en la que 0 representa la peor valoración posible y 10 la mejor valoración pos",
+  "values": {
+   "0": "0 ",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10 ",
+   "99": "No lo sé / Prefiero no contestar"
+  }
+ },
+ "p21_1": {
+  "label": " El Gobierno Central - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_2": {
+  "label": " La Monarquía - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_3": {
+  "label": " La Ertzaintza - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_4": {
+  "label": " EITB - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_5": {
+  "label": " ONG´S - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_6": {
+  "label": " El Gobierno Vasco - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_7": {
+  "label": " Las Diputaciones - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_8": {
+  "label": " Los Ayuntamientos - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_9": {
+  "label": " La Iglesia Católica - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_10": {
+  "label": " La Universidad - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_11": {
+  "label": " Osakidetza - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_12": {
+  "label": " El Tribunal Constitucional - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_13": {
+  "label": " Los partidos políticos - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_14": {
+  "label": " El Parlamento Europeo - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_15": {
+  "label": " Las organizaciones empresariales (la patronal) - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_16": {
+  "label": " Las grandes empresas (IBEX 35) - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_17": {
+  "label": " Las pequeñas empresas - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_18": {
+  "label": " Los sindicatos - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_19": {
+  "label": " Los medios de comunicación - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p21_20": {
+  "label": " Los tribunales de justicia - ¿En qué medida confías en cada una de las siguientes organizaciones o instituciones?  Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”.",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p22": {
+  "label": "Hay distintas formas de organización territorial. En estos momentos, ¿cuál de las siguientes alternativas prefieres para el País Vasco con respecto al Estado español? ",
+  "values": {
+   "1": "Me gustaría que el País Vasco no tuviera ninguna autonomía",
+   "2": "Me gustaría que el País Vasco tuviera menos autonomía que en la actualidad",
+   "3": "Me gustaría que el País Vasco conservara la misma autonomía que tiene en la actualidad",
+   "4": "Me gustaría que el País Vasco tuviera más autonomía que en la actualidad",
+   "5": "Me gustaría que el País Vasco fuera un estado independiente",
+   "6": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p23": {
+  "label": "¿En qué medida consideras necesario un nuevo estatuto para el País Vasco?",
+  "values": {
+   "1": "Muy necesario",
+   "2": "Bastante necesario",
+   "3": "Poco necesario",
+   "4": "Nada necesario",
+   "5": "No lo sé"
+  }
+ },
+ "p24_1": {
+  "label": " El reconocimiento de Euskadi como nación - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "El reconocimiento de Euskadi como nación"
+  }
+ },
+ "p24_2": {
+  "label": " El blindaje del autogobierno frente a posibles injerencias del Estado - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "El blindaje del autogobierno frente a posibles injerencias del Estado"
+  }
+ },
+ "p24_3": {
+  "label": " El derecho a decidir (Derecho democrático de la ciudadanía vasca a decidir su propio futuro político) - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "El derecho a decidir (Derecho democrático de la ciudadanía vasca a decidir su propio futuro político)"
+  }
+ },
+ "p24_4": {
+  "label": " Blindaje de los servicios públicos (Osakidetza, educación) - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "Blindaje de los servicios públicos (Osakidetza, educación)"
+  }
+ },
+ "p24_5": {
+  "label": " El reconocimiento de derechos medioambientales para la protección del territiorio - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "El reconocimiento de derechos medioambientales para la protección del territiorio"
+  }
+ },
+ "p24_6": {
+  "label": " La promoción de la igualdad de genero - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "La promoción de la igualdad de genero"
+  }
+ },
+ "p24_7": {
+  "label": " Garantizar los derechos de cuidado - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "Garantizar los derechos de cuidado"
+  }
+ },
+ "p24_8": {
+  "label": " Ninguna de las anteriores - Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+  "values": {
+   "1": "Ninguna de las anteriores"
+  }
+ },
+ "p25_1": {
+  "label": " Mejorar el acceso a la vivienda - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_2": {
+  "label": " Mejorar la atención de osakidetza - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_3": {
+  "label": " Mejorar la educación pública - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_4": {
+  "label": " Gestionar la inmigración - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_5": {
+  "label": " Incrementar la seguridad - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_6": {
+  "label": " Defender la industria vasca - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_7": {
+  "label": " Crear empleo de calidad - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_8": {
+  "label": " Proteger a los más vulnerables - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p25_9": {
+  "label": " Gestionar la política lingüística - ¿Qué partido es el que está más capacitado para...",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p26_1": {
+  "label": " Hay una ofensiva judicial contra el euskera - Indica tu grado de acuerdo con cada una de las siguientes frases",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p26_2": {
+  "label": " Es necesario modificar la ley de empleo público para proteger el actual modelo lingüístico - Indica tu grado de acuerdo con cada una de las siguientes frases",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p26_3": {
+  "label": " Hay que avanzar hacia la universalización del euskera en la administración pública - Indica tu grado de acuerdo con cada una de las siguientes frases",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p26_4": {
+  "label": " Habría que igualar el castellano y el euskera de forma flexible y progresiva teniendo en cuenta la situación sociolingüística de cada lugar - Indica tu grado de acuerdo con cada una de las siguientes frases",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p27": {
+  "label": "¿Cuál de las siguientes afirmaciones sobre los requisitos lingüísticos del empleo público coincide más con tu punto de vista?",
+  "values": {
+   "1": "Hay demasiadas exigencias relacionadas con el euskera",
+   "2": "Estoy de acuerdo con la situación actual",
+   "3": "Hay que priorizar más el euskera"
+  }
+ },
+ "p28_1": {
+  "label": " PNV/ EAJ - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "PNV/ EAJ"
+  }
+ },
+ "p28_2": {
+  "label": " EH Bildu - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "EH Bildu"
+  }
+ },
+ "p28_3": {
+  "label": " PSE - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "PSE"
+  }
+ },
+ "p28_4": {
+  "label": " Elkarrekin Podemos - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "Elkarrekin Podemos"
+  }
+ },
+ "p28_5": {
+  "label": " Sumar - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "Sumar"
+  }
+ },
+ "p28_6": {
+  "label": " PP - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "PP"
+  }
+ },
+ "p28_7": {
+  "label": " Vox - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "Vox"
+  }
+ },
+ "p28_8": {
+  "label": " No lo sé / prefiero no contestar - ¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+  "values": {
+   "1": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p29_1": {
+  "label": "En ningún caso se puede justificar la violencia para alcanzar fines políticos - Indica tu grado de acuerdo con cada una de las siguientes afirmaciones:",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p29_2": {
+  "label": "Me siento libre de expresar mis opiniones políticas en cualquier situación - Indica tu grado de acuerdo con cada una de las siguientes afirmaciones:",
+  "values": {
+   "1": "Muy de acuerdo",
+   "2": "Bastante de acuerdo",
+   "3": "Poco de acuerdo",
+   "4": "Nada de acuerdo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p30_1": {
+  "label": " Estados Unidos - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_2": {
+  "label": " Rusia - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_3": {
+  "label": " Palestina - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_4": {
+  "label": " Argentina - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_5": {
+  "label": " México - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_6": {
+  "label": " China - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_7": {
+  "label": " Hungría - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_8": {
+  "label": " Francia - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_9": {
+  "label": " Italia - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_10": {
+  "label": " Ucrania - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_11": {
+  "label": " Reino Unido - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_12": {
+  "label": " Israel - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_13": {
+  "label": " Irán - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p30_14": {
+  "label": " Corea del Norte - Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?",
+  "values": {
+   "1": "Aliado",
+   "2": "Enemigo",
+   "3": "Ni aliado ni enemigo"
+  }
+ },
+ "p31_1": {
+  "label": " La economía europea - ¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?",
+  "values": {
+   "1": "Tendrá un impacto negativo pero pasajero",
+   "2": "Tendrá un impacto negativo y duradero",
+   "3": "No tendrá apenas impacto",
+   "4": "Tendrá un impacto positivo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p31_2": {
+  "label": " La economía española - ¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?",
+  "values": {
+   "1": "Tendrá un impacto negativo pero pasajero",
+   "2": "Tendrá un impacto negativo y duradero",
+   "3": "No tendrá apenas impacto",
+   "4": "Tendrá un impacto positivo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p31_3": {
+  "label": " La economía vasca - ¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?",
+  "values": {
+   "1": "Tendrá un impacto negativo pero pasajero",
+   "2": "Tendrá un impacto negativo y duradero",
+   "3": "No tendrá apenas impacto",
+   "4": "Tendrá un impacto positivo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p31_4": {
+  "label": " La economía de tu hogar - ¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?",
+  "values": {
+   "1": "Tendrá un impacto negativo pero pasajero",
+   "2": "Tendrá un impacto negativo y duradero",
+   "3": "No tendrá apenas impacto",
+   "4": "Tendrá un impacto positivo",
+   "5": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p32_1": {
+  "label": " Tu espacio laboral - ¿Crees que las medidas que ha tomado o que puede tomar Donald Trump tienen o podrían tener un impacto personal negativo en…",
+  "values": {
+   "1": "Ya lo tienen",
+   "2": "Seguro que lo tendrán",
+   "3": "Probablemente lo tendrán",
+   "4": "Probablemente no lo tendrán",
+   "5": "Seguro que no lo tendrán"
+  }
+ },
+ "p32_2": {
+  "label": " Tu cesta de la compra - ¿Crees que las medidas que ha tomado o que puede tomar Donald Trump tienen o podrían tener un impacto personal negativo en…",
+  "values": {
+   "1": "Ya lo tienen",
+   "2": "Seguro que lo tendrán",
+   "3": "Probablemente lo tendrán",
+   "4": "Probablemente no lo tendrán",
+   "5": "Seguro que no lo tendrán"
+  }
+ },
+ "p32_3": {
+  "label": " Los precios de la energía que consumes - ¿Crees que las medidas que ha tomado o que puede tomar Donald Trump tienen o podrían tener un impacto personal negativo en…",
+  "values": {
+   "1": "Ya lo tienen",
+   "2": "Seguro que lo tendrán",
+   "3": "Probablemente lo tendrán",
+   "4": "Probablemente no lo tendrán",
+   "5": "Seguro que no lo tendrán"
+  }
+ },
+ "p33_1": {
+  "label": " Dependencia energética - ¿Cuáles crees que son las principales amenazas que tenemos como país europeo? Señala los dos más importantes para ti.",
+  "values": {
+   "1": "Dependencia energética"
+  }
+ },
+ "p33_2": {
+  "label": " La política exterior norteamericana de Trump - ¿Cuáles crees que son las principales amenazas que tenemos como país europeo? Señala los dos más importantes para ti.",
+  "values": {
+   "1": "La política exterior norteamericana de Trump"
+  }
+ },
+ "p33_3": {
+  "label": " El crecimiento de la extrema derecha - ¿Cuáles crees que son las principales amenazas que tenemos como país europeo? Señala los dos más importantes para ti.",
+  "values": {
+   "1": "El crecimiento de la extrema derecha"
+  }
+ },
+ "p33_4": {
+  "label": " La amenaza de Rusia - ¿Cuáles crees que son las principales amenazas que tenemos como país europeo? Señala los dos más importantes para ti.",
+  "values": {
+   "1": "La amenaza de Rusia"
+  }
+ },
+ "p33_5": {
+  "label": " La política económica china - ¿Cuáles crees que son las principales amenazas que tenemos como país europeo? Señala los dos más importantes para ti.",
+  "values": {
+   "1": "La política económica china"
+  }
+ },
+ "p33_6": {
+  "label": " La incapacidad de Europa (países de la UE) para tener una posición común en política exterior - ¿Cuáles crees que son las principales amenazas que tenemos como país europeo? Señala los dos más importantes para ti.",
+  "values": {
+   "1": "La incapacidad de Europa (países de la UE) para tener una posición común en política exterior"
+  }
+ },
+ "p34_1": {
+  "label": " Intervenir activamente enviando ayuda militar ofensiva - ¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres):",
+  "values": {
+   "1": "Intervenir activamente enviando ayuda militar ofensiva"
+  }
+ },
+ "p34_2": {
+  "label": " Intervenir activamente enviando ayuda militar defensiva - ¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres):",
+  "values": {
+   "1": "Intervenir activamente enviando ayuda militar defensiva"
+  }
+ },
+ "p34_3": {
+  "label": " Intervenir activamente enviando ayuda humanitaria - ¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres):",
+  "values": {
+   "1": "Intervenir activamente enviando ayuda humanitaria"
+  }
+ },
+ "p34_4": {
+  "label": " Actuar como mediadores para favorecer la paz y la seguridad - ¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres):",
+  "values": {
+   "1": "Actuar como mediadores para favorecer la paz y la seguridad"
+  }
+ },
+ "p34_5": {
+  "label": " Romper acuerdos económicamente beneficiosos con países que violan el Derecho Internacional - ¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres):",
+  "values": {
+   "1": "Romper acuerdos económicamente beneficiosos con países que violan el Derecho Internacional"
+  }
+ },
+ "p34_6": {
+  "label": " No intervenir - ¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres):",
+  "values": {
+   "1": "No intervenir"
+  }
+ },
+ "p34_7": {
+  "label": " Ninguna de las anteriores - ¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres):",
+  "values": {
+   "1": "Ninguna de las anteriores"
+  }
+ },
+ "p35_1": {
+  "label": "Intervención militar para descabezar el régimen - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? Marcar todas las que consideres.",
+  "values": {
+   "1": "Intervención militar para descabezar el régimen"
+  }
+ },
+ "p35_2": {
+  "label": "Aislar y bloquear económicamente al país - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? Marcar todas las que consideres.",
+  "values": {
+   "1": "Aislar y bloquear económicamente al país"
+  }
+ },
+ "p35_3": {
+  "label": "Fortalecer la oposición política democrática interna al régimen - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? Marcar todas las que consi",
+  "values": {
+   "1": "Fortalecer la oposición política democrática interna al régimen"
+  }
+ },
+ "p35_4": {
+  "label": "Actuar como país de acogida de refugiados políticos que huyen de la represión del régimen - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? ",
+  "values": {
+   "1": "Actuar como país de acogida de refugiados políticos que huyen de la represión del régimen"
+  }
+ },
+ "p35_5": {
+  "label": "Fortalecer la sociedad civil interna (ONG, universidades, periodistas y medios de comunicación) - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadaní",
+  "values": {
+   "1": "Fortalecer la sociedad civil interna (ONG, universidades, periodistas y medios de comunicación)."
+  }
+ },
+ "p35_6": {
+  "label": "Impulsar acciones coordinadas en el marco del derecho internacional (sanciones, denuncias ante tribunales internacionales) - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fund",
+  "values": {
+   "1": "Impulsar acciones coordinadas en el marco del derecho internacional (sanciones, denuncias ante tribunales internacionale"
+  }
+ },
+ "p35_7": {
+  "label": "Actuar como mediadores entre el régimen y la oposición política - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? Marcar todas las que consid",
+  "values": {
+   "1": "Actuar como mediadores entre el régimen y la oposición política"
+  }
+ },
+ "p35_8": {
+  "label": "No hacer nada para respetar la soberanía nacional del país - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? Marcar todas las que consideres.",
+  "values": {
+   "1": "No hacer nada para respetar la soberanía nacional del país"
+  }
+ },
+ "p35_9": {
+  "label": "No hacer nada porque nos puede perjudicar - ¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? Marcar todas las que consideres.",
+  "values": {
+   "1": "No hacer nada porque nos puede perjudicar"
+  }
+ },
+ "p36": {
+  "label": "Cuando se habla de política se utilizan normalmente las expresiones “izquierda” y “derecha”, ¿dónde te colocas?  Utiliza una escala de 0 a 10, en la que ‘0’ representa la \"extrema izquierda\" y ‘10’ representa la \"extrema derecha\". -",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p37_1": {
+  "label": " PNV/ EAJ - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p37_2": {
+  "label": " EH Bildu - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p37_3": {
+  "label": " PSE - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p37_4": {
+  "label": " Elkarrekin Podemos - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p37_5": {
+  "label": " Sumar - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p37_6": {
+  "label": " PP - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p37_7": {
+  "label": " Vox - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p38": {
+  "label": "Y en relación con el sentimiento nacionalista vasco, ¿dónde te colocarías? Utiliza una escala de 0 a 10, en la que 0 representa \"mínimo nacionalismo vasco\" y 10 \"máximo nacionalismo vasco\" -",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p39_1": {
+  "label": " PNV/ EAJ - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p39_2": {
+  "label": " EH Bildu - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p39_3": {
+  "label": " PSE - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p39_4": {
+  "label": " Elkarrekin Podemos - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p39_5": {
+  "label": " Sumar - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p39_6": {
+  "label": " PP - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p39_7": {
+  "label": " Vox - Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?",
+  "values": {
+   "0": "0",
+   "1": "1",
+   "2": "2",
+   "3": "3",
+   "4": "4",
+   "5": "5",
+   "6": "6",
+   "7": "7",
+   "8": "8",
+   "9": "9",
+   "10": "10",
+   "99": "No lo sé/Prefiero no contestar"
+  }
+ },
+ "p40": {
+  "label": "¿Qué nivel de estudios has terminado?",
+  "values": {
+   "1": "Sé leer y escribir, pero he ido menos de 5 años a la escuela",
+   "2": "He ido a la escuela 5 años o más, pero sin completar EGB, ESO o Bachillerato Elemental",
+   "3": "Bachiller Elemental, EGB, ESO completo (Graduado escolar)",
+   "4": "Bachiller superior, BUP, Bachiller LOGSE, COU, PREU",
+   "5": "FPI, FP grado medio, Oficialía Industrial o equivalente",
+   "6": "FPII, FP superior, Maestría industrial o equivalente, Conservatorio 10 años",
+   "7": "Diplomatura, Ingeniería Técnica, 3 cursos aprobados de Licenciatura, Ingeniería o Arquitectura",
+   "8": "Arquitectura, Ingeniería, Licenciatura, Grado, Máster y Doctorado"
+  }
+ },
+ "p41": {
+  "label": "¿Cómo te consideras en materia religiosa?",
+  "values": {
+   "1": "Católico/a",
+   "2": "Creyente de otras confesiones",
+   "3": "Indiferente",
+   "4": "Agnóstico/a",
+   "5": "Ateo/a",
+   "6": "No lo sé / prefiero no contestar"
+  }
+ },
+ "p42": {
+  "label": "¿Dónde has nacido?",
+  "values": {
+   "1": "En el País Vasco",
+   "2": "En otra Comunidad Autónoma",
+   "3": "En otro país fuera de España"
+  }
+ },
+ "ccaa_otra": {
+  "label": "Nacimiento fuera del País Vasco",
+  "values": {
+   "1": "Andalucía",
+   "2": "Aragón",
+   "3": "Asturias, Principado de",
+   "4": "Balears, Illes",
+   "5": "Canarias",
+   "6": "Cantabria",
+   "7": "Castilla y León",
+   "8": "Castilla - La Mancha",
+   "9": "Cataluña",
+   "10": "Comunitat Valenciana",
+   "11": "Extremadura",
+   "12": "Galicia",
+   "13": "Madrid, Comunidad de",
+   "14": "Murcia, Región de",
+   "15": "Navarra, Comunidad Foral de",
+   "16": "País Vasco",
+   "17": "Rioja, La",
+   "18": "Ceuta",
+   "19": "Melilla"
+  }
+ },
+ "pais_otra": {
+  "label": "Nacimiento fuera de España",
+  "values": {
+   "1": "Afganistan",
+   "2": "Albania",
+   "3": "Alemania",
+   "4": "Andorra",
+   "5": "Angola",
+   "6": "Antigua y Barbuda",
+   "7": "Arabia Saudita / Arabia Saudí",
+   "8": "Argelia",
+   "9": "Argentina",
+   "10": "Armenia",
+   "11": "Australia",
+   "12": "Austria",
+   "13": "Azerbaiyán",
+   "14": "Bahamas",
+   "15": "Bangladés",
+   "16": "Barbados",
+   "17": "Baréin",
+   "18": "Bélgica",
+   "19": "Belice",
+   "20": "Bielorrusia",
+   "21": "Benín",
+   "22": "Birmania / Myanmar",
+   "23": "Bolivia",
+   "24": "Bosnia y Herzegovina / Bosnia-Herzegovina",
+   "25": "Botsuana",
+   "26": "Brasil",
+   "27": "Brunei",
+   "28": "Bulgaria",
+   "29": "Burkina Faso",
+   "30": "Burundi",
+   "31": "Bután",
+   "32": "Cabo Verde",
+   "33": "Camboya",
+   "34": "Camerún",
+   "35": "Canadá",
+   "36": "Catar",
+   "37": "República Centroafricana",
+   "38": "Chad",
+   "39": "República Checa / Chequia",
+   "40": "Chile",
+   "41": "China",
+   "42": "Chipre",
+   "43": "Colombia",
+   "44": "Comoras",
+   "45": "República del Congo",
+   "46": "República Democrática del Congo",
+   "47": "Corea del Norte",
+   "48": "Corea del Sur",
+   "49": "Costa de Marfil",
+   "50": "Costa Rica",
+   "51": "Croacia",
+   "52": "Cuba",
+   "53": "Dinamarca",
+   "54": "Dominica",
+   "55": "República Dominicana",
+   "56": "Ecuador",
+   "57": "Egipto",
+   "58": "El Salvador",
+   "59": "Emiratos Árabes Unidos",
+   "60": "Eritrea",
+   "61": "Eslovaquia",
+   "62": "Eslovenia",
+   "63": "España",
+   "64": "Estados Unidos",
+   "65": "Estonia",
+   "66": "Etiopía",
+   "67": "Filipinas",
+   "68": "Finlandia",
+   "69": "Fiyi",
+   "70": "Francia",
+   "71": "Gabón",
+   "72": "Gambia",
+   "73": "Georgia",
+   "74": "Ghana",
+   "75": "Granada",
+   "76": "Grecia",
+   "77": "Guatemala",
+   "78": "Guinea",
+   "79": "Guinea-Bisáu",
+   "80": "Guinea Ecuatorial",
+   "81": "Guyana",
+   "82": "Haití",
+   "83": "Honduras",
+   "84": "Hungría",
+   "85": "India",
+   "86": "Indonesia",
+   "87": "Irak",
+   "88": "Irán",
+   "89": "Irlanda",
+   "90": "Islandia",
+   "91": "Israel",
+   "92": "Italia",
+   "93": "Jamaica",
+   "94": "Japón",
+   "95": "Jordania",
+   "96": "Kazajistán",
+   "97": "Kenia",
+   "98": "Kirguistán",
+   "99": "Kiribati",
+   "100": "Kuwait",
+   "101": "Laos",
+   "102": "Lesoto",
+   "103": "Letonia",
+   "104": "Líbano",
+   "105": "Liberia",
+   "106": "Libia",
+   "107": "Liechtenstein",
+   "108": "Lituania",
+   "109": "Luxemburgo",
+   "110": "Macedonia del Norte",
+   "111": "Madagascar",
+   "112": "Malasia",
+   "113": "Malaui",
+   "114": "Maldivas",
+   "115": "Mali / Malí",
+   "116": "Malta",
+   "117": "Marruecos",
+   "118": "Islas Marshall",
+   "119": "Mauricio",
+   "120": "Mauritania",
+   "121": "México",
+   "122": "Micronesia",
+   "123": "Moldavia",
+   "124": "Mónaco",
+   "125": "Mongolia",
+   "126": "Montenegro",
+   "127": "Mozambique",
+   "128": "Namibia",
+   "129": "Nauru",
+   "130": "Nepal",
+   "131": "Nicaragua",
+   "132": "Níger",
+   "133": "Nigeria",
+   "134": "Noruega",
+   "135": "Nueva Zelanda / Nueva Zelandia",
+   "136": "Omán",
+   "137": "Países Bajos",
+   "138": "Pakistán",
+   "139": "Palaos",
+   "140": "Palestina",
+   "141": "Panamá",
+   "142": "Papúa Nueva Guinea",
+   "143": "Paraguay",
+   "144": "Perú",
+   "145": "Polonia",
+   "146": "Portugal",
+   "147": "Reino Unido",
+   "148": "Ruanda",
+   "149": "Rumania / Rumanía",
+   "150": "Rusia",
+   "151": "Islas Salomón",
+   "152": "Samoa",
+   "153": "San Cristóbal y Nieves",
+   "154": "San Marino",
+   "155": "San Vicente y las Granadinas",
+   "156": "Santa Lucía",
+   "157": "Santo Tomé y Príncipe",
+   "158": "Senegal",
+   "159": "Serbia",
+   "160": "Seychelles",
+   "161": "Sierra Leona",
+   "162": "Singapur",
+   "163": "Siria",
+   "164": "Somalia",
+   "165": "Sri Lanka",
+   "166": "Suazilandia / Esuatini",
+   "167": "Sudáfrica",
+   "168": "Sudán",
+   "169": "Sudán del Sur",
+   "170": "Suecia",
+   "171": "Suiza",
+   "172": "Surinam",
+   "173": "Tailandia",
+   "174": "Tanzania",
+   "175": "Tayikistán",
+   "176": "Timor Oriental",
+   "177": "Togo",
+   "178": "Tonga",
+   "179": "Trinidad y Tobago",
+   "180": "Túnez",
+   "181": "Turkmenistán",
+   "182": "Turquía",
+   "183": "Tuvalu",
+   "184": "Ucrania",
+   "185": "Uganda",
+   "186": "Uruguay",
+   "187": "Uzbekistán",
+   "188": "Vanuatu",
+   "189": "Ciudad del Vaticano",
+   "190": "Venezuela",
+   "191": "Vietnam",
+   "192": "Yemen",
+   "193": "Yibuti",
+   "194": "Zambia",
+   "195": "Zimbabue"
+  }
+ },
+ "p43_1": {
+  "label": "Solo/a - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Solo/a"
+  }
+ },
+ "p43_2": {
+  "label": "Con mi pareja o cónyuge - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Con mi pareja o cónyuge"
+  }
+ },
+ "p43_3": {
+  "label": "Con mi padre - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Con mi padre"
+  }
+ },
+ "p43_4": {
+  "label": "Con mi madre - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Con mi madre"
+  }
+ },
+ "p43_5": {
+  "label": "Con mi/s hijo/a/s - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Con mi/s hijo/a/s"
+  }
+ },
+ "p43_6": {
+  "label": "Con mi/s hermano/a/s - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Con mi/s hermano/a/s"
+  }
+ },
+ "p43_7": {
+  "label": "Con otros parientes - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Con otros parientes (suegros, abuelos, nietos, cuñados, etc.)"
+  }
+ },
+ "p43_8": {
+  "label": "Con otras personas no emparentadas - ¿Con quién vives en la actualidad? Indica todas las respuestas necesarias.",
+  "values": {
+   "1": "Con otras personas no emparentadas (compañeros/as de piso, amigos/as, etc.)"
+  }
+ },
+ "p44_1": {
+  "label": "Lectura - ¿Cuál es tu nivel de conocimiento del euskera?",
+  "values": {
+   "1": "Alto",
+   "2": "Medio",
+   "3": "Bajo o nulo"
+  }
+ },
+ "p44_2": {
+  "label": "Escritura - ¿Cuál es tu nivel de conocimiento del euskera?",
+  "values": {
+   "1": "Alto",
+   "2": "Medio",
+   "3": "Bajo o nulo"
+  }
+ },
+ "p44_3": {
+  "label": "Conversación - ¿Cuál es tu nivel de conocimiento del euskera?",
+  "values": {
+   "1": "Alto",
+   "2": "Medio",
+   "3": "Bajo o nulo"
+  }
+ },
+ "p45": {
+  "label": "Pensando en las últimas elecciones autonómicas celebradas el pasado 21 de abril de 2024, ¿a qué partido votaste?",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "Sumar",
+   "6": "PP",
+   "7": "Vox",
+   "8": "Otros",
+   "9": "Voté nulo",
+   "10": "Voté en blanco",
+   "11": "No voté",
+   "12": "No lo recuerdo",
+   "13": "Prefiero no contestar"
+  }
+ },
+ "p46": {
+  "label": "¿Y a qué  partido habías votado en las elecciones autonómicas que se celebraron el 12 de Julio de 2020?",
+  "values": {
+   "1": "PNV/ EAJ",
+   "2": "EH Bildu",
+   "3": "PSE",
+   "4": "Elkarrekin Podemos",
+   "5": "PP",
+   "6": "Vox",
+   "7": "Otros",
+   "8": "Voté nulo",
+   "9": "Voté en blanco",
+   "10": "No voté",
+   "11": "No lo recuerdo",
+   "12": "Prefiero no contestar"
+  }
+ },
+ "ponde": {
+  "label": "Ponderación",
+  "values": {}
+ }
+}
