@@ -1,0 +1,502 @@
+{
+ "titulo": "Barómetro digital — Bloque 1: Situación económica",
+ "fuente": "Deustobarómetro social · verano 2026 (tablas por educación)",
+ "muestra": 1000,
+ "preguntas": [
+  {
+   "texto": "En estos momentos, ¿cuáles crees que son los tres principales problemas de la Comunidad Autónoma del País Vasco (en adelante, el País Vasco)? Señala hasta un máximo de tres",
+   "opciones": [
+    "La situación económica",
+    "La convivencia política",
+    "El paro",
+    "Las condiciones laborales",
+    "La educación",
+    "La sanidad (La atención sanitaria)",
+    "La crisis de valores (egoísmo, intolerancia…)",
+    "La delincuencia e inseguridad ciudadana",
+    "Los problemas relacionados con la juventud",
+    "La inmigración",
+    "La corrupción y el fraude",
+    "La clase política, los políticos",
+    "Las desigualdades sociales",
+    "La desigualdad entre mujeres y hombres",
+    "El cambio climático y el medioambiente",
+    "Los recortes en los servicios públicos",
+    "La vivienda",
+    "La relación con el Estado español",
+    "Los problemas relacionados con el euskera",
+    "Las pensiones",
+    "La subida de precios (la inflación, el coste de la vida cotidiana, el precio de la luz...)",
+    "La baja natalidad",
+    "Las guerras",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 3,
+   "hasta": true,
+   "datos_reales": {
+    "La situación económica": 10.1,
+    "La convivencia política": 2.9,
+    "El paro": 7.1,
+    "Las condiciones laborales": 7.6,
+    "La educación": 7.2,
+    "La sanidad (La atención sanitaria)": 37.5,
+    "La crisis de valores (egoísmo, intolerancia…)": 6.0,
+    "La delincuencia e inseguridad ciudadana": 21.6,
+    "Los problemas relacionados con la juventud": 1.9,
+    "La inmigración": 18.0,
+    "La corrupción y el fraude": 10.3,
+    "La clase política, los políticos": 8.0,
+    "Las desigualdades sociales": 7.5,
+    "La desigualdad entre mujeres y hombres": 3.2,
+    "El cambio climático y el medioambiente": 8.2,
+    "Los recortes en los servicios públicos": 10.9,
+    "La vivienda": 49.5,
+    "La relación con el Estado español": 3.7,
+    "Los problemas relacionados con el euskera": 5.3,
+    "Las pensiones": 7.0,
+    "La subida de precios (la inflación, el coste de la vida cotidiana, el precio de la luz...)": 37.3,
+    "La baja natalidad": 9.0,
+    "Las guerras": 2.4,
+    "NS/NC": 2.2
+   }
+  },
+  {
+   "texto": "¿Cómo calificarías la situación económica del País Vasco?",
+   "opciones": [
+    "Muy buena",
+    "Buena",
+    "Regular",
+    "Mala",
+    "Muy mala",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy buena": 3.9,
+    "Buena": 43.0,
+    "Regular": 42.5,
+    "Mala": 6.7,
+    "Muy mala": 2.5,
+    "NS/NC": 1.4
+   }
+  },
+  {
+   "texto": "Y dentro de un año, ¿cómo crees que será la situación económica del País Vasco?",
+   "opciones": [
+    "Mejor",
+    "Igual",
+    "Peor",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Mejor": 7.5,
+    "Igual": 66.9,
+    "Peor": 21.5,
+    "NS/NC": 4.2
+   }
+  },
+  {
+   "texto": "¿En cuál de las siguientes situaciones te encuentras actualmente?",
+   "opciones": [
+    "Trabajo de forma remunerada desde casa (teletrabajo)",
+    "Trabajo de forma remunerada fuera de mi casa",
+    "Trabajo de forma remunerada combinando mi puesto presencial con el teletrabajo",
+    "Jubilado/a o pensionista (he trabajado en el pasado)",
+    "Pensionista (no he trabajado en el pasado)",
+    "Parado/a y he trabajado antes",
+    "Parado/a y busco mi primer empleo",
+    "Estudiante buscando trabajo",
+    "Estudiante sin buscar trabajo",
+    "Estudio y trabajo",
+    "Trabajo doméstico no remunerado",
+    "Otra situación"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Trabajo de forma remunerada desde casa (teletrabajo)": 3.1,
+    "Trabajo de forma remunerada fuera de mi casa": 42.4,
+    "Trabajo de forma remunerada combinando mi puesto presencial con el teletrabajo": 7.9,
+    "Jubilado/a o pensionista (he trabajado en el pasado)": 25.6,
+    "Pensionista (no he trabajado en el pasado)": 1.6,
+    "Parado/a y he trabajado antes": 6.4,
+    "Parado/a y busco mi primer empleo": 1.1,
+    "Estudiante buscando trabajo": 2.0,
+    "Estudiante sin buscar trabajo": 1.8,
+    "Estudio y trabajo": 1.6,
+    "Trabajo doméstico no remunerado": 3.9,
+    "Otra situación": 2.6
+   }
+  },
+  {
+   "texto": "¿Crees que es probable que en los próximos seis meses pierdas tu actual empleo?",
+   "opciones": [
+    "Muy probable",
+    "Bastante probable",
+    "Poco probable",
+    "Nada probable",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy probable": 5.1,
+    "Bastante probable": 8.6,
+    "Poco probable": 38.8,
+    "Nada probable": 39.6,
+    "NS/NC": 8.0
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Reducir los gastos en alimentación",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 22.9,
+    "Lo he pensado hacer, pero no lo he hecho": 15.9,
+    "Ni lo he hecho, ni lo he pensado hacer": 59.1,
+    "Prefiero no contestar": 2.0
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Reducir los gastos en ocio",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 43.4,
+    "Lo he pensado hacer, pero no lo he hecho": 13.3,
+    "Ni lo he hecho, ni lo he pensado hacer": 41.8,
+    "Prefiero no contestar": 1.5
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: No comprar alguna medicina o dejar de seguir un tratamiento médico",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 5.4,
+    "Lo he pensado hacer, pero no lo he hecho": 7.1,
+    "Ni lo he hecho, ni lo he pensado hacer": 85.2,
+    "Prefiero no contestar": 2.3
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Pedir ayuda económica a amigos/as, vecinos/as o familiares",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 8.4,
+    "Lo he pensado hacer, pero no lo he hecho": 8.9,
+    "Ni lo he hecho, ni lo he pensado hacer": 79.7,
+    "Prefiero no contestar": 3.0
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Retrasar algún pago (como el alquiler, la hipoteca, los recibos de la luz, agua, electricidad, etc.)",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 7.9,
+    "Lo he pensado hacer, pero no lo he hecho": 8.3,
+    "Ni lo he hecho, ni lo he pensado hacer": 80.9,
+    "Prefiero no contestar": 2.9
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: No comprar ropa o calzado que realmente necesito",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 18.7,
+    "Lo he pensado hacer, pero no lo he hecho": 13.2,
+    "Ni lo he hecho, ni lo he pensado hacer": 65.7,
+    "Prefiero no contestar": 2.5
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Reducir el consumo de carne o pescado",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 23.5,
+    "Lo he pensado hacer, pero no lo he hecho": 10.6,
+    "Ni lo he hecho, ni lo he pensado hacer": 63.4,
+    "Prefiero no contestar": 2.6
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Pedir ropa",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 5.2,
+    "Lo he pensado hacer, pero no lo he hecho": 7.2,
+    "Ni lo he hecho, ni lo he pensado hacer": 85.0,
+    "Prefiero no contestar": 2.6
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Pedir alimentos",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 4.0,
+    "Lo he pensado hacer, pero no lo he hecho": 6.2,
+    "Ni lo he hecho, ni lo he pensado hacer": 86.3,
+    "Prefiero no contestar": 3.5
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Dejar de ir al dentista",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 15.6,
+    "Lo he pensado hacer, pero no lo he hecho": 10.4,
+    "Ni lo he hecho, ni lo he pensado hacer": 71.8,
+    "Prefiero no contestar": 2.3
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Renunciar a independizarme, teniendo que permanecer en la casa de mis familiares",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 12.0,
+    "Lo he pensado hacer, pero no lo he hecho": 5.5,
+    "Ni lo he hecho, ni lo he pensado hacer": 77.7,
+    "Prefiero no contestar": 4.7
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Volver a vivir en la casa de mis familiares",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 9.9,
+    "Lo he pensado hacer, pero no lo he hecho": 7.0,
+    "Ni lo he hecho, ni lo he pensado hacer": 79.0,
+    "Prefiero no contestar": 4.1
+   }
+  },
+  {
+   "texto": "Indica si en el último mes, y como consecuencia de tu situación económica, has hecho o has pensado hacer alguna de las siguientes acciones:: Renunciar a irme de vacaciones este verano",
+   "opciones": [
+    "Lo he hecho",
+    "Lo he pensado hacer, pero no lo he hecho",
+    "Ni lo he hecho, ni lo he pensado hacer",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Lo he hecho": 24.1,
+    "Lo he pensado hacer, pero no lo he hecho": 15.5,
+    "Ni lo he hecho, ni lo he pensado hacer": 57.6,
+    "Prefiero no contestar": 2.8
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Rabia/ Enfado",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 9.2,
+    "Bastantes veces": 20.6,
+    "Pocas veces": 42.8,
+    "Ninguna": 25.2,
+    "NS/NC": 2.2
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Tristeza",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 10.5,
+    "Bastantes veces": 17.2,
+    "Pocas veces": 43.9,
+    "Ninguna": 26.6,
+    "NS/NC": 1.9
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Miedo",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 5.8,
+    "Bastantes veces": 11.9,
+    "Pocas veces": 32.1,
+    "Ninguna": 48.0,
+    "NS/NC": 2.2
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Preocupación",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 13.7,
+    "Bastantes veces": 29.2,
+    "Pocas veces": 40.5,
+    "Ninguna": 15.0,
+    "NS/NC": 1.6
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Odio",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 3.8,
+    "Bastantes veces": 8.2,
+    "Pocas veces": 29.4,
+    "Ninguna": 56.1,
+    "NS/NC": 2.5
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Ansiedad",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 10.9,
+    "Bastantes veces": 17.3,
+    "Pocas veces": 32.5,
+    "Ninguna": 37.0,
+    "NS/NC": 2.4
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Soledad",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 7.8,
+    "Bastantes veces": 13.1,
+    "Pocas veces": 28.9,
+    "Ninguna": 47.5,
+    "NS/NC": 2.6
+   }
+  },
+  {
+   "texto": "¿Con qué frecuencia has pasado por los siguientes estados de ánimo durante la última semana?: Insomnio o mal sueño",
+   "opciones": [
+    "Muchas veces",
+    "Bastantes veces",
+    "Pocas veces",
+    "Ninguna",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muchas veces": 12.5,
+    "Bastantes veces": 23.7,
+    "Pocas veces": 37.5,
+    "Ninguna": 24.4,
+    "NS/NC": 1.9
+   }
+  }
+ ]
+}

@@ -1,0 +1,399 @@
+{
+ "titulo": "Barómetro digital — Bloque 6: Geopolítica, guerras y Donald Trump",
+ "fuente": "Deustobarómetro social · verano 2026 (tablas por educación)",
+ "muestra": 1000,
+ "preguntas": [
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Estados Unidos",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 10.0,
+    "Enemigo": 49.0,
+    "Ni aliado ni enemigo": 41.0
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Rusia",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 6.3,
+    "Enemigo": 44.4,
+    "Ni aliado ni enemigo": 49.3
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Palestina",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 47.3,
+    "Enemigo": 9.7,
+    "Ni aliado ni enemigo": 42.9
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Argentina",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 30.4,
+    "Enemigo": 17.0,
+    "Ni aliado ni enemigo": 52.6
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: México",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 38.3,
+    "Enemigo": 5.9,
+    "Ni aliado ni enemigo": 55.8
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: China",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 27.0,
+    "Enemigo": 12.0,
+    "Ni aliado ni enemigo": 61.0
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Hungría",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 16.5,
+    "Enemigo": 15.9,
+    "Ni aliado ni enemigo": 67.6
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Francia",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 47.8,
+    "Enemigo": 9.7,
+    "Ni aliado ni enemigo": 42.5
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Italia",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 38.9,
+    "Enemigo": 7.8,
+    "Ni aliado ni enemigo": 53.3
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Ucrania",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 39.2,
+    "Enemigo": 7.4,
+    "Ni aliado ni enemigo": 53.4
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Reino Unido",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 32.1,
+    "Enemigo": 10.2,
+    "Ni aliado ni enemigo": 57.7
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Israel",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 5.6,
+    "Enemigo": 59.0,
+    "Ni aliado ni enemigo": 35.3
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Irán",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 10.5,
+    "Enemigo": 26.6,
+    "Ni aliado ni enemigo": 63.0
+   }
+  },
+  {
+   "texto": "Si hoy tuvieras que señalar a los aliados y los enemigos de Euskadi ¿dónde ubicarías a …?: Corea del Norte",
+   "opciones": [
+    "Aliado",
+    "Enemigo",
+    "Ni aliado ni enemigo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Aliado": 6.2,
+    "Enemigo": 36.1,
+    "Ni aliado ni enemigo": 57.7
+   }
+  },
+  {
+   "texto": "¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?: La economía europea",
+   "opciones": [
+    "Tendrá un impacto negativo pero pasajero",
+    "Tendrá un impacto negativo y duradero",
+    "No tendrá apenas impacto",
+    "Tendrá un impacto positivo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Tendrá un impacto negativo pero pasajero": 24.7,
+    "Tendrá un impacto negativo y duradero": 58.6,
+    "No tendrá apenas impacto": 6.0,
+    "Tendrá un impacto positivo": 1.7,
+    "NS/NC": 8.9
+   }
+  },
+  {
+   "texto": "¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?: La economía española",
+   "opciones": [
+    "Tendrá un impacto negativo pero pasajero",
+    "Tendrá un impacto negativo y duradero",
+    "No tendrá apenas impacto",
+    "Tendrá un impacto positivo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Tendrá un impacto negativo pero pasajero": 26.2,
+    "Tendrá un impacto negativo y duradero": 57.9,
+    "No tendrá apenas impacto": 5.4,
+    "Tendrá un impacto positivo": 2.0,
+    "NS/NC": 8.5
+   }
+  },
+  {
+   "texto": "¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?: La economía vasca",
+   "opciones": [
+    "Tendrá un impacto negativo pero pasajero",
+    "Tendrá un impacto negativo y duradero",
+    "No tendrá apenas impacto",
+    "Tendrá un impacto positivo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Tendrá un impacto negativo pero pasajero": 29.2,
+    "Tendrá un impacto negativo y duradero": 52.6,
+    "No tendrá apenas impacto": 8.0,
+    "Tendrá un impacto positivo": 1.5,
+    "NS/NC": 8.8
+   }
+  },
+  {
+   "texto": "¿Cómo crees que la guerra en Oriente Medio (entre EEUU, ISRAEL, LIBANO e IRÁN) puede afectar a…?: La economía de tu hogar",
+   "opciones": [
+    "Tendrá un impacto negativo pero pasajero",
+    "Tendrá un impacto negativo y duradero",
+    "No tendrá apenas impacto",
+    "Tendrá un impacto positivo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Tendrá un impacto negativo pero pasajero": 26.4,
+    "Tendrá un impacto negativo y duradero": 44.6,
+    "No tendrá apenas impacto": 16.5,
+    "Tendrá un impacto positivo": 1.9,
+    "NS/NC": 10.6
+   }
+  },
+  {
+   "texto": "¿Crees que las medidas que ha tomado o que puede tomar Donald Trump tienen o podrían tener un impacto personal negativo en…: Tu espacio laboral",
+   "opciones": [
+    "Ya lo tienen",
+    "Seguro que lo tendrán",
+    "Probablemente lo tendrán",
+    "Probablemente no lo tendrán",
+    "Seguro que no lo tendrán"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Ya lo tienen": 19.7,
+    "Seguro que lo tendrán": 24.2,
+    "Probablemente lo tendrán": 25.7,
+    "Probablemente no lo tendrán": 17.5,
+    "Seguro que no lo tendrán": 12.8
+   }
+  },
+  {
+   "texto": "¿Crees que las medidas que ha tomado o que puede tomar Donald Trump tienen o podrían tener un impacto personal negativo en…: Tu cesta de la compra",
+   "opciones": [
+    "Ya lo tienen",
+    "Seguro que lo tendrán",
+    "Probablemente lo tendrán",
+    "Probablemente no lo tendrán",
+    "Seguro que no lo tendrán"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Ya lo tienen": 52.9,
+    "Seguro que lo tendrán": 20.6,
+    "Probablemente lo tendrán": 16.7,
+    "Probablemente no lo tendrán": 5.9,
+    "Seguro que no lo tendrán": 3.9
+   }
+  },
+  {
+   "texto": "¿Crees que las medidas que ha tomado o que puede tomar Donald Trump tienen o podrían tener un impacto personal negativo en…: Los precios de la energía que consumes",
+   "opciones": [
+    "Ya lo tienen",
+    "Seguro que lo tendrán",
+    "Probablemente lo tendrán",
+    "Probablemente no lo tendrán",
+    "Seguro que no lo tendrán"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Ya lo tienen": 54.2,
+    "Seguro que lo tendrán": 20.7,
+    "Probablemente lo tendrán": 15.6,
+    "Probablemente no lo tendrán": 5.3,
+    "Seguro que no lo tendrán": 4.1
+   }
+  },
+  {
+   "texto": "¿Cuáles crees que son las principales amenazas que tenemos como país europeo? Señala los dos más importantes para ti",
+   "opciones": [
+    "Dependencia energética",
+    "La política exterior norteamericana de Trump",
+    "El crecimiento de la extrema derecha",
+    "La amenaza de Rusia",
+    "La política económica china",
+    "La incapacidad de Europa (países de la UE) para tener una posición común en política exterior"
+   ],
+   "multiple": 2,
+   "datos_reales": {
+    "Dependencia energética": 33.7,
+    "La política exterior norteamericana de Trump": 52.7,
+    "El crecimiento de la extrema derecha": 49.2,
+    "La amenaza de Rusia": 20.3,
+    "La política económica china": 8.0,
+    "La incapacidad de Europa (países de la UE) para tener una posición común en política exterior": 36.1
+   }
+  },
+  {
+   "texto": "¿Qué papel crees que deben tener las potencias mundiales en conflictos internacionales? (Marca todas las que consideres)",
+   "opciones": [
+    "Intervenir activamente enviando ayuda militar ofensiva",
+    "Intervenir activamente enviando ayuda militar defensiva",
+    "Intervenir activamente enviando ayuda humanitaria",
+    "Actuar como mediadores para favorecer la paz y la seguridad",
+    "Romper acuerdos económicamente beneficiosos con países que violan el Derecho Internacional",
+    "No intervenir",
+    "Ninguna de las anteriores"
+   ],
+   "multiple": 6,
+   "hasta": true,
+   "datos_reales": {
+    "Intervenir activamente enviando ayuda militar ofensiva": 12.0,
+    "Intervenir activamente enviando ayuda militar defensiva": 22.5,
+    "Intervenir activamente enviando ayuda humanitaria": 47.0,
+    "Actuar como mediadores para favorecer la paz y la seguridad": 65.0,
+    "Romper acuerdos económicamente beneficiosos con países que violan el Derecho Internacional": 49.2,
+    "No intervenir": 4.5,
+    "Ninguna de las anteriores": 6.3
+   }
+  },
+  {
+   "texto": "¿De las siguientes medidas cuales crees que se deberían utilizar para acabar con regímenes autoritarios que violan derechos fundamentales de su ciudadanía? Marcar todas las que consideres",
+   "opciones": [
+    "Intervención militar para descabezar el régimen",
+    "Aislar y bloquear económicamente al país",
+    "Fortalecer la oposición política democrática interna al régimen",
+    "Actuar como país de acogida de refugiados políticos que huyen de la represión del régimen",
+    "Fortalecer la sociedad civil interna (ONG, universidades, periodistas y medios de comunicación)",
+    "Impulsar acciones coordinadas en el marco del derecho internacional (sanciones, denuncias ante tribunales internacionales)",
+    "Actuar como mediadores entre el régimen y la oposición política",
+    "No hacer nada para respetar la soberanía nacional del país",
+    "No hacer nada porque nos puede perjudicar"
+   ],
+   "multiple": 8,
+   "hasta": true,
+   "datos_reales": {
+    "Intervención militar para descabezar el régimen": 10.9,
+    "Aislar y bloquear económicamente al país": 35.7,
+    "Fortalecer la oposición política democrática interna al régimen": 21.0,
+    "Actuar como país de acogida de refugiados políticos que huyen de la represión del régimen": 30.3,
+    "Fortalecer la sociedad civil interna (ONG, universidades, periodistas y medios de comunicación)": 31.9,
+    "Impulsar acciones coordinadas en el marco del derecho internacional (sanciones, denuncias ante tribunales internacionales)": 54.7,
+    "Actuar como mediadores entre el régimen y la oposición política": 38.5,
+    "No hacer nada para respetar la soberanía nacional del país": 3.4,
+    "No hacer nada porque nos puede perjudicar": 8.0
+   }
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "titulo": "Barómetro digital — Bloque 7: Perfil y clasificación (validación)",
+ "fuente": "Deustobarómetro social · verano 2026 (tablas por educación)",
+ "muestra": 1000,
+ "preguntas": [
+  {
+   "texto": "¿Qué nivel de estudios has terminado?",
+   "opciones": [
+    "Sé leer y escribir, pero he ido menos de 5 años a la escuela",
+    "He ido a la escuela 5 años o más, pero sin completar EGB, ESO o Bachillerato Elemental",
+    "Bachiller Elemental, EGB, ESO completo (Graduado escolar)",
+    "Bachiller superior, BUP, Bachiller LOGSE, COU, PREU",
+    "FPI, FP grado medio, Oficialía Industrial o equivalente",
+    "FPII, FP superior, Maestría industrial o equivalente, Conservatorio 10 años",
+    "Diplomatura, Ingeniería Técnica, 3 cursos aprobados de Licenciatura, Ingeniería o Arquitectura",
+    "Arquitectura, Ingeniería, Licenciatura, Grado, Máster y Doctorado"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Sé leer y escribir, pero he ido menos de 5 años a la escuela": 0.4,
+    "He ido a la escuela 5 años o más, pero sin completar EGB, ESO o Bachillerato Elemental": 4.2,
+    "Bachiller Elemental, EGB, ESO completo (Graduado escolar)": 12.1,
+    "Bachiller superior, BUP, Bachiller LOGSE, COU, PREU": 11.5,
+    "FPI, FP grado medio, Oficialía Industrial o equivalente": 11.6,
+    "FPII, FP superior, Maestría industrial o equivalente, Conservatorio 10 años": 20.1,
+    "Diplomatura, Ingeniería Técnica, 3 cursos aprobados de Licenciatura, Ingeniería o Arquitectura": 18.1,
+    "Arquitectura, Ingeniería, Licenciatura, Grado, Máster y Doctorado": 21.9
+   }
+  },
+  {
+   "texto": "¿Cómo te consideras en materia religiosa?",
+   "opciones": [
+    "Católico/a",
+    "Creyente de otras confesiones",
+    "Indiferente",
+    "Agnóstico/a",
+    "Ateo/a",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Católico/a": 36.0,
+    "Creyente de otras confesiones": 1.9,
+    "Indiferente": 14.0,
+    "Agnóstico/a": 13.7,
+    "Ateo/a": 27.6,
+    "NS/NC": 6.8
+   }
+  },
+  {
+   "texto": "¿Dónde has nacido?",
+   "opciones": [
+    "En el País Vasco",
+    "En otra Comunidad Autónoma",
+    "En otro país fuera de España"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "En el País Vasco": 83.3,
+    "En otra Comunidad Autónoma": 11.4,
+    "En otro país fuera de España": 5.3
+   }
+  },
+  {
+   "texto": "¿Con quién vives en la actualidad? Indica todas las respuestas necesarias",
+   "opciones": [
+    "Solo/a",
+    "Con mi pareja o cónyuge",
+    "Con mi padre",
+    "Con mi madre",
+    "Con mi/s hijo/a/s",
+    "Con mi/s hermano/a/s",
+    "Con otros parientes",
+    "Con otras personas no emparentadas"
+   ],
+   "multiple": 7,
+   "hasta": true,
+   "datos_reales": {
+    "Solo/a": 14.1,
+    "Con mi pareja o cónyuge": 61.9,
+    "Con mi padre": 11.1,
+    "Con mi madre": 16.9,
+    "Con mi/s hijo/a/s": 28.0,
+    "Con mi/s hermano/a/s": 8.2,
+    "Con otros parientes": 1.7,
+    "Con otras personas no emparentadas": 1.6
+   }
+  },
+  {
+   "texto": "¿Cuál es tu nivel de conocimiento del euskera?: Lectura",
+   "opciones": [
+    "Alto",
+    "Medio",
+    "Bajo o nulo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Alto": 34.2,
+    "Medio": 31.0,
+    "Bajo o nulo": 34.8
+   }
+  },
+  {
+   "texto": "¿Cuál es tu nivel de conocimiento del euskera?: Escritura",
+   "opciones": [
+    "Alto",
+    "Medio",
+    "Bajo o nulo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Alto": 30.9,
+    "Medio": 29.4,
+    "Bajo o nulo": 39.7
+   }
+  },
+  {
+   "texto": "¿Cuál es tu nivel de conocimiento del euskera?: Conversación",
+   "opciones": [
+    "Alto",
+    "Medio",
+    "Bajo o nulo"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Alto": 30.2,
+    "Medio": 29.5,
+    "Bajo o nulo": 40.3
+   }
+  },
+  {
+   "texto": "Pensando en las últimas elecciones autonómicas celebradas el pasado 21 de abril de 2024, ¿a qué partido votaste?",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "Otros",
+    "Voté nulo",
+    "Voté en blanco",
+    "No voté",
+    "No lo recuerdo",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 19.5,
+    "EH Bildu": 17.1,
+    "PSE": 11.0,
+    "Elkarrekin Podemos": 3.8,
+    "Sumar": 2.6,
+    "PP": 3.7,
+    "Vox": 3.0,
+    "Otros": 0.7,
+    "Voté nulo": 1.2,
+    "Voté en blanco": 2.8,
+    "No voté": 16.7,
+    "No lo recuerdo": 5.9,
+    "Prefiero no contestar": 11.9
+   }
+  },
+  {
+   "texto": "¿Y a qué partido habías votado en las elecciones autonómicas que se celebraron el 12 de Julio de 2020?",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "PP",
+    "Vox",
+    "Otros",
+    "Voté nulo",
+    "Voté en blanco",
+    "No voté",
+    "No lo recuerdo",
+    "Prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 19.6,
+    "EH Bildu": 14.7,
+    "PSE": 10.8,
+    "Elkarrekin Podemos": 6.8,
+    "PP": 3.6,
+    "Vox": 2.8,
+    "Otros": 1.0,
+    "Voté nulo": 1.5,
+    "Voté en blanco": 2.1,
+    "No voté": 16.5,
+    "No lo recuerdo": 8.4,
+    "Prefiero no contestar": 12.1
+   }
+  }
+ ]
+}

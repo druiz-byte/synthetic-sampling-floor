@@ -1,0 +1,1685 @@
+{
+ "titulo": "Barómetro digital — Bloque 5: Situación política y calidad de la democracia",
+ "fuente": "Deustobarómetro social · verano 2026 (tablas por educación)",
+ "muestra": 1000,
+ "preguntas": [
+  {
+   "texto": "¿Cómo calificarías la situación política general del País Vasco?",
+   "opciones": [
+    "Muy buena",
+    "Buena",
+    "Regular",
+    "Mala",
+    "Muy mala",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy buena": 1.8,
+    "Buena": 33.4,
+    "Regular": 43.9,
+    "Mala": 11.1,
+    "Muy mala": 5.6,
+    "NS/NC": 4.3
+   }
+  },
+  {
+   "texto": "¿Y cómo crees que será la situación política del País Vasco dentro de un año?",
+   "opciones": [
+    "Mejor",
+    "Igual",
+    "Peor",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Mejor": 5.7,
+    "Igual": 68.9,
+    "Peor": 18.9,
+    "NS/NC": 6.5
+   }
+  },
+  {
+   "texto": "Si tuvieras que valorar con una nota de 0 a 10 la calidad de la democracia en España, ¿qué nota le pondrías? ¿Y en el País Vasco? Utiliza una escala de 0 a 10, en la que 0 representa la peor valoración posible y 10 la mejor valoración pos: España",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 7.5,
+    "1": 4.3,
+    "2": 9.8,
+    "3": 11.9,
+    "4": 10.6,
+    "5": 16.3,
+    "6": 14.3,
+    "7": 10.8,
+    "8": 7.2,
+    "9": 2.0,
+    "10": 1.3,
+    "NS/NC": 3.8
+   }
+  },
+  {
+   "texto": "Si tuvieras que valorar con una nota de 0 a 10 la calidad de la democracia en España, ¿qué nota le pondrías? ¿Y en el País Vasco? Utiliza una escala de 0 a 10, en la que 0 representa la peor valoración posible y 10 la mejor valoración pos: Euskadi",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 4.1,
+    "1": 1.6,
+    "2": 2.9,
+    "3": 5.0,
+    "4": 7.1,
+    "5": 16.3,
+    "6": 15.0,
+    "7": 19.3,
+    "8": 15.6,
+    "9": 6.5,
+    "10": 2.6,
+    "NS/NC": 4.0
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: El Gobierno Central",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 18.3,
+    "1": 5.4,
+    "2": 8.0,
+    "3": 8.5,
+    "4": 11.2,
+    "5": 17.3,
+    "6": 10.9,
+    "7": 9.6,
+    "8": 5.8,
+    "9": 1.2,
+    "10": 1.3,
+    "NS/NC": 2.6
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: La Monarquía",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 35.1,
+    "1": 7.9,
+    "2": 7.5,
+    "3": 8.4,
+    "4": 7.1,
+    "5": 12.5,
+    "6": 7.4,
+    "7": 5.0,
+    "8": 3.8,
+    "9": 1.4,
+    "10": 1.6,
+    "NS/NC": 2.4
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: La Ertzaintza",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 9.7,
+    "1": 2.8,
+    "2": 5.8,
+    "3": 7.3,
+    "4": 5.4,
+    "5": 15.9,
+    "6": 14.8,
+    "7": 15.6,
+    "8": 11.4,
+    "9": 5.8,
+    "10": 3.3,
+    "NS/NC": 2.1
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: EITB",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 8.0,
+    "1": 3.7,
+    "2": 4.7,
+    "3": 6.9,
+    "4": 10.1,
+    "5": 20.4,
+    "6": 14.1,
+    "7": 14.3,
+    "8": 9.8,
+    "9": 2.7,
+    "10": 1.7,
+    "NS/NC": 3.8
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: ONG´S",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 12.4,
+    "1": 3.0,
+    "2": 4.8,
+    "3": 7.0,
+    "4": 9.2,
+    "5": 19.1,
+    "6": 13.8,
+    "7": 12.7,
+    "8": 7.9,
+    "9": 3.2,
+    "10": 2.5,
+    "NS/NC": 4.4
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: El Gobierno Vasco",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 8.4,
+    "1": 2.4,
+    "2": 3.0,
+    "3": 8.8,
+    "4": 8.8,
+    "5": 18.7,
+    "6": 16.0,
+    "7": 17.4,
+    "8": 9.0,
+    "9": 3.3,
+    "10": 1.9,
+    "NS/NC": 2.4
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Las Diputaciones",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 8.3,
+    "1": 4.1,
+    "2": 5.4,
+    "3": 6.8,
+    "4": 9.2,
+    "5": 20.9,
+    "6": 18.4,
+    "7": 11.9,
+    "8": 7.7,
+    "9": 2.1,
+    "10": 1.6,
+    "NS/NC": 3.5
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Los Ayuntamientos",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 6.8,
+    "1": 2.7,
+    "2": 5.5,
+    "3": 6.3,
+    "4": 9.4,
+    "5": 19.8,
+    "6": 16.6,
+    "7": 17.0,
+    "8": 10.0,
+    "9": 2.4,
+    "10": 1.6,
+    "NS/NC": 2.0
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: La Iglesia Católica",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 28.8,
+    "1": 6.6,
+    "2": 8.1,
+    "3": 8.0,
+    "4": 8.1,
+    "5": 14.3,
+    "6": 8.5,
+    "7": 5.6,
+    "8": 5.9,
+    "9": 1.4,
+    "10": 2.0,
+    "NS/NC": 2.9
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: La Universidad",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 3.1,
+    "1": 1.1,
+    "2": 2.4,
+    "3": 4.0,
+    "4": 4.7,
+    "5": 16.7,
+    "6": 15.8,
+    "7": 19.0,
+    "8": 19.5,
+    "9": 7.6,
+    "10": 2.4,
+    "NS/NC": 3.8
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Osakidetza",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 3.4,
+    "1": 2.0,
+    "2": 5.2,
+    "3": 4.7,
+    "4": 8.5,
+    "5": 13.9,
+    "6": 17.3,
+    "7": 16.4,
+    "8": 17.6,
+    "9": 5.7,
+    "10": 3.3,
+    "NS/NC": 2.0
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: El Tribunal Constitucional",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 15.3,
+    "1": 4.1,
+    "2": 6.4,
+    "3": 9.7,
+    "4": 10.1,
+    "5": 18.6,
+    "6": 12.9,
+    "7": 9.1,
+    "8": 5.6,
+    "9": 1.8,
+    "10": 1.8,
+    "NS/NC": 4.6
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Los partidos políticos",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 23.7,
+    "1": 6.4,
+    "2": 11.3,
+    "3": 9.7,
+    "4": 12.1,
+    "5": 14.1,
+    "6": 10.3,
+    "7": 4.8,
+    "8": 3.1,
+    "9": 1.0,
+    "10": 0.9,
+    "NS/NC": 2.6
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: El Parlamento Europeo",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 10.9,
+    "1": 3.7,
+    "2": 6.3,
+    "3": 8.8,
+    "4": 10.2,
+    "5": 18.4,
+    "6": 15.3,
+    "7": 11.5,
+    "8": 7.7,
+    "9": 1.9,
+    "10": 1.5,
+    "NS/NC": 3.8
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Las organizaciones empresariales (la patronal)",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 18.7,
+    "1": 5.2,
+    "2": 9.3,
+    "3": 10.1,
+    "4": 10.8,
+    "5": 18.7,
+    "6": 9.2,
+    "7": 7.3,
+    "8": 4.8,
+    "9": 1.0,
+    "10": 1.2,
+    "NS/NC": 3.7
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Las grandes empresas (IBEX 35)",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 18.2,
+    "1": 5.3,
+    "2": 8.9,
+    "3": 9.2,
+    "4": 11.6,
+    "5": 16.6,
+    "6": 9.6,
+    "7": 8.9,
+    "8": 5.3,
+    "9": 1.1,
+    "10": 1.2,
+    "NS/NC": 4.1
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Las pequeñas empresas",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 2.5,
+    "1": 1.3,
+    "2": 2.7,
+    "3": 4.1,
+    "4": 5.6,
+    "5": 16.8,
+    "6": 19.8,
+    "7": 20.5,
+    "8": 14.7,
+    "9": 6.2,
+    "10": 3.4,
+    "NS/NC": 2.4
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Los sindicatos",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 14.9,
+    "1": 4.6,
+    "2": 6.8,
+    "3": 10.7,
+    "4": 9.6,
+    "5": 17.3,
+    "6": 12.7,
+    "7": 11.0,
+    "8": 6.4,
+    "9": 1.9,
+    "10": 1.5,
+    "NS/NC": 2.8
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Los medios de comunicación",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 12.3,
+    "1": 4.5,
+    "2": 8.3,
+    "3": 9.1,
+    "4": 12.6,
+    "5": 20.3,
+    "6": 13.6,
+    "7": 8.1,
+    "8": 6.5,
+    "9": 2.1,
+    "10": 0.5,
+    "NS/NC": 2.1
+   }
+  },
+  {
+   "texto": "¿En qué medida confías en cada una de las siguientes organizaciones o instituciones? Utiliza una escala de 0 a 10, en la que 0 representa “No confío nada” y 10 “Confío plenamente”: Los tribunales de justicia",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 15.1,
+    "1": 5.4,
+    "2": 8.3,
+    "3": 9.7,
+    "4": 10.6,
+    "5": 16.0,
+    "6": 13.3,
+    "7": 9.5,
+    "8": 5.6,
+    "9": 2.1,
+    "10": 1.3,
+    "NS/NC": 3.1
+   }
+  },
+  {
+   "texto": "Hay distintas formas de organización territorial. En estos momentos, ¿cuál de las siguientes alternativas prefieres para el País Vasco con respecto al Estado español?",
+   "opciones": [
+    "Me gustaría que el País Vasco no tuviera ninguna autonomía",
+    "Me gustaría que el País Vasco tuviera menos autonomía que en la actualidad",
+    "Me gustaría que el País Vasco conservara la misma autonomía que tiene en la actualidad",
+    "Me gustaría que el País Vasco tuviera más autonomía que en la actualidad",
+    "Me gustaría que el País Vasco fuera un estado independiente",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Me gustaría que el País Vasco no tuviera ninguna autonomía": 2.9,
+    "Me gustaría que el País Vasco tuviera menos autonomía que en la actualidad": 4.7,
+    "Me gustaría que el País Vasco conservara la misma autonomía que tiene en la actualidad": 35.5,
+    "Me gustaría que el País Vasco tuviera más autonomía que en la actualidad": 31.5,
+    "Me gustaría que el País Vasco fuera un estado independiente": 16.2,
+    "NS/NC": 9.3
+   }
+  },
+  {
+   "texto": "¿En qué medida consideras necesario un nuevo estatuto para el País Vasco?",
+   "opciones": [
+    "Muy necesario",
+    "Bastante necesario",
+    "Poco necesario",
+    "Nada necesario",
+    "No lo sé"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy necesario": 14.9,
+    "Bastante necesario": 32.1,
+    "Poco necesario": 23.8,
+    "Nada necesario": 9.3,
+    "No lo sé": 19.8
+   }
+  },
+  {
+   "texto": "Cuál de las siguientes medidas te gustaría que fueran incluidas en el nuevo estatuto. Indica todas las opciones que consideres",
+   "opciones": [
+    "El reconocimiento de Euskadi como nación",
+    "El blindaje del autogobierno frente a posibles injerencias del Estado",
+    "El derecho a decidir (Derecho democrático de la ciudadanía vasca a decidir su propio futuro político)",
+    "Blindaje de los servicios públicos (Osakidetza, educación)",
+    "El reconocimiento de derechos medioambientales para la protección del territiorio",
+    "La promoción de la igualdad de genero",
+    "Garantizar los derechos de cuidado",
+    "Ninguna de las anteriores"
+   ],
+   "multiple": 7,
+   "hasta": true,
+   "datos_reales": {
+    "El reconocimiento de Euskadi como nación": 22.3,
+    "El blindaje del autogobierno frente a posibles injerencias del Estado": 32.3,
+    "El derecho a decidir (Derecho democrático de la ciudadanía vasca a decidir su propio futuro político)": 39.6,
+    "Blindaje de los servicios públicos (Osakidetza, educación)": 61.7,
+    "El reconocimiento de derechos medioambientales para la protección del territiorio": 32.4,
+    "La promoción de la igualdad de genero": 33.9,
+    "Garantizar los derechos de cuidado": 47.5,
+    "Ninguna de las anteriores": 11.6
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Mejorar el acceso a la vivienda",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 17.2,
+    "EH Bildu": 18.9,
+    "PSE": 7.4,
+    "Elkarrekin Podemos": 4.8,
+    "Sumar": 5.2,
+    "PP": 3.2,
+    "Vox": 5.4,
+    "NS/NC": 37.9
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Mejorar la atención de osakidetza",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 24.3,
+    "EH Bildu": 18.6,
+    "PSE": 7.4,
+    "Elkarrekin Podemos": 4.4,
+    "Sumar": 2.9,
+    "PP": 3.7,
+    "Vox": 4.3,
+    "NS/NC": 34.4
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Mejorar la educación pública",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 20.7,
+    "EH Bildu": 16.8,
+    "PSE": 10.0,
+    "Elkarrekin Podemos": 4.5,
+    "Sumar": 4.1,
+    "PP": 3.9,
+    "Vox": 4.5,
+    "NS/NC": 35.5
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Gestionar la inmigración",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 17.6,
+    "EH Bildu": 14.2,
+    "PSE": 9.5,
+    "Elkarrekin Podemos": 4.6,
+    "Sumar": 2.5,
+    "PP": 4.1,
+    "Vox": 13.3,
+    "NS/NC": 34.2
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Incrementar la seguridad",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 24.1,
+    "EH Bildu": 13.6,
+    "PSE": 7.7,
+    "Elkarrekin Podemos": 2.9,
+    "Sumar": 2.6,
+    "PP": 4.1,
+    "Vox": 9.1,
+    "NS/NC": 35.8
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Defender la industria vasca",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 35.9,
+    "EH Bildu": 16.9,
+    "PSE": 5.4,
+    "Elkarrekin Podemos": 2.8,
+    "Sumar": 2.0,
+    "PP": 2.5,
+    "Vox": 3.7,
+    "NS/NC": 30.8
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Crear empleo de calidad",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 21.9,
+    "EH Bildu": 14.8,
+    "PSE": 8.1,
+    "Elkarrekin Podemos": 3.8,
+    "Sumar": 4.2,
+    "PP": 5.0,
+    "Vox": 4.2,
+    "NS/NC": 38.0
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Proteger a los más vulnerables",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 16.3,
+    "EH Bildu": 18.6,
+    "PSE": 9.6,
+    "Elkarrekin Podemos": 5.6,
+    "Sumar": 5.7,
+    "PP": 2.8,
+    "Vox": 4.8,
+    "NS/NC": 36.7
+   }
+  },
+  {
+   "texto": "¿Qué partido es el que está más capacitado para: Gestionar la política lingüística",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "PNV/ EAJ": 24.3,
+    "EH Bildu": 23.4,
+    "PSE": 6.1,
+    "Elkarrekin Podemos": 2.3,
+    "Sumar": 2.4,
+    "PP": 2.9,
+    "Vox": 4.1,
+    "NS/NC": 34.4
+   }
+  },
+  {
+   "texto": "Indica tu grado de acuerdo con cada una de las siguientes frases: Hay una ofensiva judicial contra el euskera",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 13.1,
+    "Bastante de acuerdo": 20.2,
+    "Poco de acuerdo": 23.3,
+    "Nada de acuerdo": 26.7,
+    "NS/NC": 16.8
+   }
+  },
+  {
+   "texto": "Indica tu grado de acuerdo con cada una de las siguientes frases: Es necesario modificar la ley de empleo público para proteger el actual modelo lingüístico",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 12.2,
+    "Bastante de acuerdo": 26.2,
+    "Poco de acuerdo": 24.6,
+    "Nada de acuerdo": 18.1,
+    "NS/NC": 18.9
+   }
+  },
+  {
+   "texto": "Indica tu grado de acuerdo con cada una de las siguientes frases: Hay que avanzar hacia la universalización del euskera en la administración pública",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 16.5,
+    "Bastante de acuerdo": 29.4,
+    "Poco de acuerdo": 24.6,
+    "Nada de acuerdo": 18.1,
+    "NS/NC": 11.4
+   }
+  },
+  {
+   "texto": "Indica tu grado de acuerdo con cada una de las siguientes frases: Habría que igualar el castellano y el euskera de forma flexible y progresiva teniendo en cuenta la situación sociolingüística de cada lugar",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 15.7,
+    "Bastante de acuerdo": 42.2,
+    "Poco de acuerdo": 19.6,
+    "Nada de acuerdo": 11.8,
+    "NS/NC": 10.8
+   }
+  },
+  {
+   "texto": "¿Cuál de las siguientes afirmaciones sobre los requisitos lingüísticos del empleo público coincide más con tu punto de vista?",
+   "opciones": [
+    "Hay demasiadas exigencias relacionadas con el euskera",
+    "Estoy de acuerdo con la situación actual",
+    "Hay que priorizar más el euskera"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Hay demasiadas exigencias relacionadas con el euskera": 47.6,
+    "Estoy de acuerdo con la situación actual": 33.6,
+    "Hay que priorizar más el euskera": 18.9
+   }
+  },
+  {
+   "texto": "¿A cuál de los siguientes partidos no votarías nunca? (Marca todas las necesarias)",
+   "opciones": [
+    "PNV/ EAJ",
+    "EH Bildu",
+    "PSE",
+    "Elkarrekin Podemos",
+    "Sumar",
+    "PP",
+    "Vox",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 7,
+   "hasta": true,
+   "datos_reales": {
+    "PNV/ EAJ": 16.9,
+    "EH Bildu": 29.0,
+    "PSE": 21.6,
+    "Elkarrekin Podemos": 24.9,
+    "Sumar": 25.0,
+    "PP": 51.5,
+    "Vox": 67.7,
+    "NS/NC": 13.4
+   }
+  },
+  {
+   "texto": "Indica tu grado de acuerdo con cada una de las siguientes afirmaciones:: En ningún caso se puede justificar la violencia para alcanzar fines políticos",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 60.6,
+    "Bastante de acuerdo": 21.2,
+    "Poco de acuerdo": 7.9,
+    "Nada de acuerdo": 4.3,
+    "NS/NC": 6.1
+   }
+  },
+  {
+   "texto": "Indica tu grado de acuerdo con cada una de las siguientes afirmaciones:: Me siento libre de expresar mis opiniones políticas en cualquier situación",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 18.2,
+    "Bastante de acuerdo": 37.5,
+    "Poco de acuerdo": 25.9,
+    "Nada de acuerdo": 11.3,
+    "NS/NC": 7.1
+   }
+  },
+  {
+   "texto": "Cuando se habla de política se utilizan normalmente las expresiones “izquierda” y “derecha”, ¿dónde te colocas? Utiliza una escala de 0 a 10, en la que ‘0’ representa la \"extrema izquierda\" y ‘10’ representa la \"extrema derecha\". -",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 6.0,
+    "1": 4.8,
+    "2": 11.5,
+    "3": 15.4,
+    "4": 14.3,
+    "5": 19.1,
+    "6": 7.2,
+    "7": 3.8,
+    "8": 3.5,
+    "9": 0.4,
+    "10": 1.8,
+    "NS/NC": 12.2
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha: PNV/ EAJ",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 1.7,
+    "1": 0.6,
+    "2": 2.3,
+    "3": 5.5,
+    "4": 5.6,
+    "5": 19.1,
+    "6": 17.3,
+    "7": 16.9,
+    "8": 13.3,
+    "9": 4.2,
+    "10": 1.9,
+    "NS/NC": 11.5
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha: EH Bildu",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 24.5,
+    "1": 14.2,
+    "2": 16.1,
+    "3": 11.8,
+    "4": 6.6,
+    "5": 7.1,
+    "6": 1.8,
+    "7": 1.7,
+    "8": 2.1,
+    "9": 0.7,
+    "10": 1.0,
+    "NS/NC": 12.4
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha: PSE",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 4.8,
+    "1": 2.7,
+    "2": 5.4,
+    "3": 11.5,
+    "4": 17.8,
+    "5": 24.1,
+    "6": 13.0,
+    "7": 4.4,
+    "8": 2.2,
+    "9": 1.1,
+    "10": 1.8,
+    "NS/NC": 11.1
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha: Elkarrekin Podemos",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 12.0,
+    "1": 10.5,
+    "2": 15.0,
+    "3": 16.5,
+    "4": 12.6,
+    "5": 12.1,
+    "6": 2.8,
+    "7": 2.4,
+    "8": 2.5,
+    "9": 0.7,
+    "10": 0.6,
+    "NS/NC": 12.4
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha: Sumar",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 7.7,
+    "1": 6.0,
+    "2": 13.6,
+    "3": 16.8,
+    "4": 14.1,
+    "5": 16.1,
+    "6": 4.6,
+    "7": 2.9,
+    "8": 2.7,
+    "9": 0.8,
+    "10": 0.8,
+    "NS/NC": 13.9
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha: PP",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 2.2,
+    "1": 0.8,
+    "2": 1.4,
+    "3": 1.3,
+    "4": 1.3,
+    "5": 5.4,
+    "6": 4.5,
+    "7": 10.7,
+    "8": 20.8,
+    "9": 22.8,
+    "10": 18.7,
+    "NS/NC": 10.1
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos? Utiliza una escala de 0 a 10, en la que ‘0’ representa la extrema izquierda y ‘10’ representa la extrema derecha: Vox",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 3.6,
+    "1": 0.6,
+    "2": 0.5,
+    "3": 0.9,
+    "4": 1.2,
+    "5": 4.0,
+    "6": 1.5,
+    "7": 2.5,
+    "8": 5.6,
+    "9": 7.1,
+    "10": 61.8,
+    "NS/NC": 10.6
+   }
+  },
+  {
+   "texto": "Y en relación con el sentimiento nacionalista vasco, ¿dónde te colocarías? Utiliza una escala de 0 a 10, en la que 0 representa \"mínimo nacionalismo vasco\" y 10 \"máximo nacionalismo vasco\" -",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 7.1,
+    "1": 1.9,
+    "2": 3.3,
+    "3": 4.4,
+    "4": 4.6,
+    "5": 20.9,
+    "6": 11.6,
+    "7": 12.8,
+    "8": 10.5,
+    "9": 4.3,
+    "10": 9.4,
+    "NS/NC": 9.0
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?: PNV/ EAJ",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 1.6,
+    "1": 0.6,
+    "2": 1.1,
+    "3": 1.7,
+    "4": 2.0,
+    "5": 7.4,
+    "6": 8.5,
+    "7": 14.0,
+    "8": 17.3,
+    "9": 13.7,
+    "10": 19.5,
+    "NS/NC": 12.7
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?: EH Bildu",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 1.9,
+    "1": 0.9,
+    "2": 0.9,
+    "3": 1.8,
+    "4": 2.2,
+    "5": 5.2,
+    "6": 4.5,
+    "7": 7.7,
+    "8": 10.8,
+    "9": 13.4,
+    "10": 38.0,
+    "NS/NC": 12.7
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?: PSE",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 9.5,
+    "1": 3.2,
+    "2": 8.3,
+    "3": 11.3,
+    "4": 13.0,
+    "5": 21.0,
+    "6": 11.4,
+    "7": 4.4,
+    "8": 2.5,
+    "9": 1.3,
+    "10": 1.2,
+    "NS/NC": 12.9
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?: Elkarrekin Podemos",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 6.5,
+    "1": 2.9,
+    "2": 6.2,
+    "3": 8.0,
+    "4": 9.7,
+    "5": 19.4,
+    "6": 12.9,
+    "7": 10.4,
+    "8": 5.6,
+    "9": 2.6,
+    "10": 2.0,
+    "NS/NC": 14.0
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?: Sumar",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 9.8,
+    "1": 4.9,
+    "2": 7.7,
+    "3": 10.2,
+    "4": 10.0,
+    "5": 20.6,
+    "6": 9.7,
+    "7": 7.4,
+    "8": 2.4,
+    "9": 1.0,
+    "10": 1.0,
+    "NS/NC": 15.3
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?: PP",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 38.3,
+    "1": 13.0,
+    "2": 9.8,
+    "3": 6.5,
+    "4": 4.4,
+    "5": 7.3,
+    "6": 3.9,
+    "7": 2.0,
+    "8": 0.5,
+    "9": 1.0,
+    "10": 0.9,
+    "NS/NC": 12.5
+   }
+  },
+  {
+   "texto": "Y en la misma escala, ¿dónde colocarías a los siguientes partidos o coaliciones de partidos?: Vox",
+   "opciones": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "0": 59.9,
+    "1": 7.5,
+    "2": 3.3,
+    "3": 2.4,
+    "4": 1.1,
+    "5": 5.5,
+    "6": 2.9,
+    "7": 1.5,
+    "8": 0.7,
+    "9": 1.0,
+    "10": 1.9,
+    "NS/NC": 12.3
+   }
+  }
+ ]
+}

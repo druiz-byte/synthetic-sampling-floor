@@ -1,0 +1,151 @@
+{
+ "titulo": "Barómetro digital — Bloque 3: Los miedos de la era de la inseguridad",
+ "fuente": "Deustobarómetro social · verano 2026 (tablas por educación)",
+ "muestra": 1000,
+ "preguntas": [
+  {
+   "texto": "Pensando en los problemas globales actuales, indica los 3 que más miedo te dan",
+   "opciones": [
+    "Conflictos internacionales / guerras",
+    "Terrorismo",
+    "Subida brusca de los precios",
+    "Desabastecimiento de algún producto básico",
+    "Crisis energética",
+    "Inseguridad ciudadana",
+    "Migración",
+    "Cambio climático",
+    "Pandemias / crisis sanitarias",
+    "Desempleo",
+    "Precariedad laboral",
+    "Desarrollos tecnológicos (Inteligencia artificial)",
+    "Ciberataques",
+    "El avance de las ideas antidemocráticas",
+    "Ninguno en particular"
+   ],
+   "multiple": 3,
+   "datos_reales": {
+    "Conflictos internacionales / guerras": 45.0,
+    "Terrorismo": 9.5,
+    "Subida brusca de los precios": 36.4,
+    "Desabastecimiento de algún producto básico": 5.2,
+    "Crisis energética": 9.0,
+    "Inseguridad ciudadana": 32.8,
+    "Migración": 18.4,
+    "Cambio climático": 26.8,
+    "Pandemias / crisis sanitarias": 23.8,
+    "Desempleo": 17.5,
+    "Precariedad laboral": 21.0,
+    "Desarrollos tecnológicos (Inteligencia artificial)": 8.8,
+    "Ciberataques": 6.7,
+    "El avance de las ideas antidemocráticas": 33.1,
+    "Ninguno en particular": 2.0
+   }
+  },
+  {
+   "texto": "En qué medida estás de acuerdo con cada una de las siguientes frases: El miedo a la delincuencia justifica un mayor control estatal sobre la población",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 10.0,
+    "Bastante de acuerdo": 31.7,
+    "Poco de acuerdo": 30.6,
+    "Nada de acuerdo": 21.2,
+    "NS/NC": 6.5
+   }
+  },
+  {
+   "texto": "En qué medida estás de acuerdo con cada una de las siguientes frases: Cedería parte de mis libertades a cambio de mayor garantía de mi seguridad",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 5.6,
+    "Bastante de acuerdo": 21.6,
+    "Poco de acuerdo": 35.5,
+    "Nada de acuerdo": 29.4,
+    "NS/NC": 8.0
+   }
+  },
+  {
+   "texto": "En qué medida estás de acuerdo con cada una de las siguientes fras: Es necesario priorizar a las personas autóctonas en la redistribución de recursos públicos (ayudas, vivienda, asistencia sanitaria, etc.) para que no colapsen los servicios públicos",
+   "opciones": [
+    "Muy de acuerdo",
+    "Bastante de acuerdo",
+    "Poco de acuerdo",
+    "Nada de acuerdo",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Muy de acuerdo": 19.4,
+    "Bastante de acuerdo": 33.1,
+    "Poco de acuerdo": 22.1,
+    "Nada de acuerdo": 18.6,
+    "NS/NC": 6.8
+   }
+  },
+  {
+   "texto": "¿En qué medida ha aumentado en los últimos años tu miedo a viajar?",
+   "opciones": [
+    "Mucho",
+    "Bastante",
+    "Poco",
+    "Nada",
+    "Nunca he tenido miedo a viajar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Mucho": 3.0,
+    "Bastante": 17.9,
+    "Poco": 37.6,
+    "Nada": 28.0,
+    "Nunca he tenido miedo a viajar": 13.5
+   }
+  },
+  {
+   "texto": "¿Has descartado o modificado un viaje en los últimos dos años?",
+   "opciones": [
+    "Sí",
+    "No"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Sí": 27.0,
+    "No": 73.0
+   }
+  },
+  {
+   "texto": "¿Cuál fue la principal razón?",
+   "opciones": [
+    "Inseguridad",
+    "Precio elevado",
+    "Crisis sanitaria",
+    "Conflicto político",
+    "Guerras",
+    "Motivos laborales",
+    "Otro"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Inseguridad": 19.0,
+    "Precio elevado": 37.6,
+    "Crisis sanitaria": 3.3,
+    "Conflicto político": 11.0,
+    "Guerras": 14.6,
+    "Motivos laborales": 6.4,
+    "Otro": 8.2
+   }
+  }
+ ]
+}

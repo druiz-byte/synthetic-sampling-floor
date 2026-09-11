@@ -1,0 +1,46 @@
+{
+ "titulo": "Barómetro digital — Bloque 4: El impacto social del turismo",
+ "fuente": "Deustobarómetro social · verano 2026 (tablas por educación)",
+ "muestra": 1000,
+ "preguntas": [
+  {
+   "texto": "¿En qué medida crees que el aumento de turistas afecta a la pérdida de la tradición e identidad de Euskadi?",
+   "opciones": [
+    "Mucho",
+    "Bastante",
+    "Poco",
+    "Nada",
+    "No lo sé / prefiero no contestar"
+   ],
+   "multiple": 1,
+   "datos_reales": {
+    "Mucho": 9.9,
+    "Bastante": 25.6,
+    "Poco": 41.2,
+    "Nada": 17.0,
+    "NS/NC": 6.2
+   }
+  },
+  {
+   "texto": "¿Crees que el turismo tiene alguno de los siguientes efectos en el acceso a la vivienda de la población local en tu municipio? Indica todas las opciones que consideres",
+   "opciones": [
+    "Se incrementa el precio del alquiler residencial al competir con el alquiler vacacional",
+    "Disminuye la oferta de viviendas en venta",
+    "Aumenta la construcción de vivienda, tanto para residentes como para inversores",
+    "La calidad de vida de los barrios disminuye gravemente",
+    "Mejora la calidad de vida al mejorar las infraestructuras y oferta de ocio",
+    "Ninguna de las anteriores"
+   ],
+   "multiple": 5,
+   "hasta": true,
+   "datos_reales": {
+    "Se incrementa el precio del alquiler residencial al competir con el alquiler vacacional": 64.4,
+    "Disminuye la oferta de viviendas en venta": 39.4,
+    "Aumenta la construcción de vivienda, tanto para residentes como para inversores": 11.0,
+    "La calidad de vida de los barrios disminuye gravemente": 27.1,
+    "Mejora la calidad de vida al mejorar las infraestructuras y oferta de ocio": 11.5,
+    "Ninguna de las anteriores": 14.1
+   }
+  }
+ ]
+}
