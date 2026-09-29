@@ -2,4 +2,5 @@ numpy>=1.26
 scipy>=1.11
 pandas>=2.0
 matplotlib>=3.8
+scikit-learn>=1.3   # revision scripts only (analysis/r1_paired.py)
 # optional: pyreadstat (if absent, analysis/savio.py uses a bundled pure-Python .sav reader)
